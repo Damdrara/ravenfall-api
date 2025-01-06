@@ -1,0 +1,806 @@
+{
+    "meta": {
+        "count": 16,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "f45851a3-8084-4ad7-a450-7344d91e0fde": {
+            "id": "f45851a3-8084-4ad7-a450-7344d91e0fde",
+            "imageSrc": "bronze-2h-axe.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 8
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 11
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 25
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f45851a3-8084-4ad7-a450-7344d91e0fde",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 14
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "3ab15974-93dd-4864-9e88-94795c7740c9": {
+            "id": "3ab15974-93dd-4864-9e88-94795c7740c9",
+            "imageSrc": "bronze-2h-sword.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 10
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 10
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 25
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "3ab15974-93dd-4864-9e88-94795c7740c9",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 14
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "be3f8fd0-afd9-47a0-af23-a0922c13d90a": {
+            "id": "be3f8fd0-afd9-47a0-af23-a0922c13d90a",
+            "imageSrc": "bronze-axe.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 6
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 7
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 25
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "be3f8fd0-afd9-47a0-af23-a0922c13d90a",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 10
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "f07333e4-bdd0-4f63-94f8-ef2287089945": {
+            "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+            "imageSrc": "bronze-bar.png",
+            "name": "Tin Ore",
+            "description": "A solid bar of bronze, crafted by combining copper and tin. Often used for beginner crafts.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 4
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                    "name": "Tin Ore",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 1
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "c999cc35-020c-4a52-b56b-89d592dae63c",
+                        "name": "Copper Ore",
+                        "amount": 1
+                    },
+                    {
+                        "id": "37fe36d4-06a9-4b47-adf7-3a292db2edc8",
+                        "name": "Tin Ore",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "3baaff83-83cd-4c6c-97c3-653fa2320705": {
+            "id": "3baaff83-83cd-4c6c-97c3-653fa2320705",
+            "imageSrc": "bronze-boots.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 6
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 1
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 15
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "3baaff83-83cd-4c6c-97c3-653fa2320705",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "f52a48f7-5934-4e39-a826-695a9dc4970d": {
+            "id": "f52a48f7-5934-4e39-a826-695a9dc4970d",
+            "imageSrc": "bronze-bow.png",
+            "name": "Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 10
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 10
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 22
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f52a48f7-5934-4e39-a826-695a9dc4970d",
+                    "name": "Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 14
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "a2747fd8-70da-48c9-a54c-41914975d1b3",
+                        "name": "Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "9f1e94b2-da18-41ae-8add-b62a9afdfac3": {
+            "id": "9f1e94b2-da18-41ae-8add-b62a9afdfac3",
+            "imageSrc": "bronze-chest.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 14
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 1
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 25
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "9f1e94b2-da18-41ae-8add-b62a9afdfac3",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 18
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "79044912-4820-4c35-ab1b-4b3ab858c1e5": {
+            "id": "79044912-4820-4c35-ab1b-4b3ab858c1e5",
+            "imageSrc": "bronze-gloves.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 4
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 1
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 15
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "79044912-4820-4c35-ab1b-4b3ab858c1e5",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 6
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "7f05d57b-6832-4efe-a34f-39f5b2dbede5": {
+            "id": "7f05d57b-6832-4efe-a34f-39f5b2dbede5",
+            "imageSrc": "bronze-helmet.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 4
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 1
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 15
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "7f05d57b-6832-4efe-a34f-39f5b2dbede5",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 7
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "c049e512-93bd-4150-83eb-1981474b4dc3": {
+            "id": "c049e512-93bd-4150-83eb-1981474b4dc3",
+            "imageSrc": "bronze-katana.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 9
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 10
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 25
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "c049e512-93bd-4150-83eb-1981474b4dc3",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "ea258203-ff80-4c7f-8106-6d384c16aa9f": {
+            "id": "ea258203-ff80-4c7f-8106-6d384c16aa9f",
+            "imageSrc": "bronze-leggings.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 7
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 1
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 20
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "ea258203-ff80-4c7f-8106-6d384c16aa9f",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 16
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "3c6cb2ad-b4ce-464f-98fa-a95f0fac029a": {
+            "id": "3c6cb2ad-b4ce-464f-98fa-a95f0fac029a",
+            "imageSrc": "bronze-shield.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 7
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 1
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 20
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "3c6cb2ad-b4ce-464f-98fa-a95f0fac029a",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "5a50ec80-0434-4357-a514-e2842a749ffc": {
+            "id": "5a50ec80-0434-4357-a514-e2842a749ffc",
+            "imageSrc": "bronze-spear.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 9
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 10
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 22
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "5a50ec80-0434-4357-a514-e2842a749ffc",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 14
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a2747fd8-70da-48c9-a54c-41914975d1b3",
+                        "name": "Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "23db54b9-3e94-42c8-b6f0-b914de4e98a7": {
+            "id": "23db54b9-3e94-42c8-b6f0-b914de4e98a7",
+            "imageSrc": "bronze-staff.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 10
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 10
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 22
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "23db54b9-3e94-42c8-b6f0-b914de4e98a7",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 14
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a2747fd8-70da-48c9-a54c-41914975d1b3",
+                        "name": "Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "5238a19f-d6ab-4330-a878-dd9a1c2d3922": {
+            "id": "5238a19f-d6ab-4330-a878-dd9a1c2d3922",
+            "imageSrc": "bronze-sword.png",
+            "name": "Bronze Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 7
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 7
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 15
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "5238a19f-d6ab-4330-a878-dd9a1c2d3922",
+                    "name": "Bronze Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 6
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "fba57798-a24b-4da2-91a1-8773f5f3935e": {
+            "id": "fba57798-a24b-4da2-91a1-8773f5f3935e",
+            "imageSrc": "elder-bronze-bar.png",
+            "name": "Coal",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Bronze",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 4
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "fba57798-a24b-4da2-91a1-8773f5f3935e",
+                    "name": "Coal",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 400
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "b256a40e-7917-4975-88d2-f9b220c621fd",
+                        "name": "Eldrium",
+                        "amount": 2
+                    },
+                    {
+                        "id": "f07333e4-bdd0-4f63-94f8-ef2287089945",
+                        "name": "Bronze Bar",
+                        "amount": 1
+                    },
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 60
+                    }
+                ]
+            }
+        }
+    }
+}

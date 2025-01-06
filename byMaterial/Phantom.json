@@ -1,0 +1,919 @@
+{
+    "meta": {
+        "count": 19,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "9034a080-4040-452a-9cbd-8497d02459e7": {
+            "id": "9034a080-4040-452a-9cbd-8497d02459e7",
+            "imageSrc": "phantom-2h-axe.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 112
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 140
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 150
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 4375
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "9034a080-4040-452a-9cbd-8497d02459e7",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 193
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "13d98475-7be6-4f53-83e2-3125b2095c5d": {
+            "id": "13d98475-7be6-4f53-83e2-3125b2095c5d",
+            "imageSrc": "phantom-2h-sword.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 128
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 128
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 150
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 4375
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "13d98475-7be6-4f53-83e2-3125b2095c5d",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 193
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "8d101e92-95cd-4606-a2f6-38fc5301ec94": {
+            "id": "8d101e92-95cd-4606-a2f6-38fc5301ec94",
+            "imageSrc": null,
+            "name": "Phantom Ore",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 22
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 28
+                },
+                {
+                    "name": "Armor Power",
+                    "value": 17
+                }
+            ],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Amulet",
+            "type": "Amulet",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 968
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "8d101e92-95cd-4606-a2f6-38fc5301ec94",
+                    "name": "Phantom Ore",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 130
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6f8cb588-e9d1-4f34-a955-eb1d462bcfc4",
+                        "name": "Gold Amulet",
+                        "amount": 1
+                    },
+                    {
+                        "id": "42cf66af-28bb-47ce-945f-b3c8bb8b2079",
+                        "name": "Phantom Ore",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "5e95741e-d6ab-458c-8ba3-fb1ce986bbeb": {
+            "id": "5e95741e-d6ab-458c-8ba3-fb1ce986bbeb",
+            "imageSrc": "phantom-axe.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 87
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 98
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 150
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 4375
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "5e95741e-d6ab-458c-8ba3-fb1ce986bbeb",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 189
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "e8431d6f-5607-4c26-b053-c7ee83dbafe4": {
+            "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+            "imageSrc": "phantom-bar.png",
+            "name": "Phantom Ore",
+            "description": "This ethereal bar seems to phase in and out of existence, perfect for crafting ghostly tools and armor.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 700
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                    "name": "Phantom Ore",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 180
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 20
+                    },
+                    {
+                        "id": "42cf66af-28bb-47ce-945f-b3c8bb8b2079",
+                        "name": "Phantom Ore",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "379df953-9218-43fe-9a25-38538ab2a63b": {
+            "id": "379df953-9218-43fe-9a25-38538ab2a63b",
+            "imageSrc": "phantom-boots.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 97
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 150
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2625
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "379df953-9218-43fe-9a25-38538ab2a63b",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 184
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "8389d2ff-0dba-42fa-b7da-21bba774c513": {
+            "id": "8389d2ff-0dba-42fa-b7da-21bba774c513",
+            "imageSrc": "phantom-bow.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 128
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 128
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 150
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3825
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "8389d2ff-0dba-42fa-b7da-21bba774c513",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 193
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "7b8786bc-9508-4d5b-856d-a1fb4dfb5db4",
+                        "name": "Ironbark Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "d4e293cf-224a-47c5-a9b1-95848e3846ed": {
+            "id": "d4e293cf-224a-47c5-a9b1-95848e3846ed",
+            "imageSrc": "phantom-chest.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 142
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 150
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 4375
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "d4e293cf-224a-47c5-a9b1-95848e3846ed",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 197
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "17c3f9b1-57d6-4219-bbc7-9e929757babf": {
+            "id": "17c3f9b1-57d6-4219-bbc7-9e929757babf",
+            "imageSrc": "phantom-core.png",
+            "name": "Phantom Core",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 700
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "691d3954-66bd-4c58-bf10-61c8dabf1a25": {
+            "id": "691d3954-66bd-4c58-bf10-61c8dabf1a25",
+            "imageSrc": "phantom-gloves.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 92
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 150
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2625
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "691d3954-66bd-4c58-bf10-61c8dabf1a25",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 185
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "a136b318-00a6-4281-ac48-33930df47abc": {
+            "id": "a136b318-00a6-4281-ac48-33930df47abc",
+            "imageSrc": "phantom-helmet.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 89
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 150
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2625
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "a136b318-00a6-4281-ac48-33930df47abc",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 186
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "d3966d4a-ef1b-4fcc-8695-aa2a823e8b7b": {
+            "id": "d3966d4a-ef1b-4fcc-8695-aa2a823e8b7b",
+            "imageSrc": "phantom-katana.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 118
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 138
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 150
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 4375
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "d3966d4a-ef1b-4fcc-8695-aa2a823e8b7b",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 194
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "910b0f8a-6b7e-4a86-a529-4bb700d3db48": {
+            "id": "910b0f8a-6b7e-4a86-a529-4bb700d3db48",
+            "imageSrc": "phantom-leggings.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 98
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 150
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3500
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "910b0f8a-6b7e-4a86-a529-4bb700d3db48",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 195
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "42cf66af-28bb-47ce-945f-b3c8bb8b2079": {
+            "id": "42cf66af-28bb-47ce-945f-b3c8bb8b2079",
+            "imageSrc": "phantom-ore.png",
+            "name": "Phantom Ore",
+            "description": "Almost translucent, this ore appears and disappears with one's gaze. Elusive and otherworldly.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 700
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 450
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "fc61bf6c-7b5e-40b4-a06a-693ef9504bc9": {
+            "id": "fc61bf6c-7b5e-40b4-a06a-693ef9504bc9",
+            "imageSrc": "phantom-ring.png",
+            "name": "Phantom Ore",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 22
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 28
+                },
+                {
+                    "name": "Armor Power",
+                    "value": 17
+                }
+            ],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Ring",
+            "type": "Ring",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 968
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "fc61bf6c-7b5e-40b4-a06a-693ef9504bc9",
+                    "name": "Phantom Ore",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 130
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "c57acd84-32ec-434c-ab2c-e200d47da4a1",
+                        "name": "Gold Ring",
+                        "amount": 1
+                    },
+                    {
+                        "id": "42cf66af-28bb-47ce-945f-b3c8bb8b2079",
+                        "name": "Phantom Ore",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "701ca52f-ebea-4bd2-8b1e-dd72d2076262": {
+            "id": "701ca52f-ebea-4bd2-8b1e-dd72d2076262",
+            "imageSrc": "phantom-shield.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 98
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 150
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3500
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "701ca52f-ebea-4bd2-8b1e-dd72d2076262",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 194
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "edaa2a7a-f310-42d1-a50c-48c2d07cd29c": {
+            "id": "edaa2a7a-f310-42d1-a50c-48c2d07cd29c",
+            "imageSrc": "phantom-spear.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 121
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 133
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 150
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3825
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "edaa2a7a-f310-42d1-a50c-48c2d07cd29c",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 193
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "7b8786bc-9508-4d5b-856d-a1fb4dfb5db4",
+                        "name": "Ironbark Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "97e0141d-afa4-4184-9b55-e7e9929a4bcd": {
+            "id": "97e0141d-afa4-4184-9b55-e7e9929a4bcd",
+            "imageSrc": "phantom-staff.png",
+            "name": "Ironbark Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 128
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 128
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 150
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3825
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "97e0141d-afa4-4184-9b55-e7e9929a4bcd",
+                    "name": "Ironbark Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 193
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "7b8786bc-9508-4d5b-856d-a1fb4dfb5db4",
+                        "name": "Ironbark Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "647d3048-73bd-45f6-8d5a-209546312d9a": {
+            "id": "647d3048-73bd-45f6-8d5a-209546312d9a",
+            "imageSrc": "phantom-sword.png",
+            "name": "Phantom Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 93
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 93
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 150
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2625
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "647d3048-73bd-45f6-8d5a-209546312d9a",
+                    "name": "Phantom Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 185
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e8431d6f-5607-4c26-b053-c7ee83dbafe4",
+                        "name": "Phantom Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        }
+    }
+}

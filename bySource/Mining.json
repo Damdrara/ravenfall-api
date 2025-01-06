@@ -1,0 +1,568 @@
+{
+    "meta": {
+        "count": 20,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "6ab74c23-1ff2-45ff-95a7-ca86a464e25a": {
+            "id": "6ab74c23-1ff2-45ff-95a7-ca86a464e25a",
+            "imageSrc": "abraxas-ore.png",
+            "name": "Abraxas Ore",
+            "description": "A deep purple ore that seems to constantly shift and shimmer, as if holding a universe within.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 500
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 350
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "a8b371c8-d26b-4abe-93bc-81a7ef618150": {
+            "id": "a8b371c8-d26b-4abe-93bc-81a7ef618150",
+            "imageSrc": "adamantite-ore.png",
+            "name": "Adamantite Ore",
+            "description": "A green-tinted metal, famed for its nearly impenetrable nature.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 187
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 80
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "5bd329ca-c67e-4297-92d3-e0c6e5bd7bc6": {
+            "id": "5bd329ca-c67e-4297-92d3-e0c6e5bd7bc6",
+            "imageSrc": "ancient-ore.png",
+            "name": "Ancient Ore",
+            "description": "An ore from times long past, it holds memories of the world before.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1900
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 850
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "5923cf2c-3be6-4dbe-885e-bf30092730a0": {
+            "id": "5923cf2c-3be6-4dbe-885e-bf30092730a0",
+            "imageSrc": "atlarus-ore.png",
+            "name": "Atlarus Ore",
+            "description": "A radiant gemstone-like ore, named after a legendary sky deity.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2600
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 999
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "09fa0236-afde-41c4-a7ac-0e5038d04d27": {
+            "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+            "imageSrc": "coal.png",
+            "name": "Coal",
+            "description": "Dark and dusty, it's a primary source of energy for various industries.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 30
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 30
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "c999cc35-020c-4a52-b56b-89d592dae63c": {
+            "id": "c999cc35-020c-4a52-b56b-89d592dae63c",
+            "imageSrc": "copper-ore.png",
+            "name": "Copper Ore",
+            "description": "A reddish-brown mineral used for creating bronze.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 1
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "fa4d89b8-f483-4555-a524-6ed11116ba76": {
+            "id": "fa4d89b8-f483-4555-a524-6ed11116ba76",
+            "imageSrc": "dragon-ore.png",
+            "name": "Dragon Ore",
+            "description": "An incredibly rare ore that is said to contain the power of dragons. Radiates a faint warmth.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 360
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 180
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "b256a40e-7917-4975-88d2-f9b220c621fd": {
+            "id": "b256a40e-7917-4975-88d2-f9b220c621fd",
+            "imageSrc": "eldrium.png",
+            "name": "Eldrium",
+            "description": "A crystal that pulses with a deep and ancient power, like the heartbeat of the earth itself.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 250
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 250
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "48c94f6c-6119-48a2-88ea-f7649f816da4": {
+            "id": "48c94f6c-6119-48a2-88ea-f7649f816da4",
+            "imageSrc": "emerald.png",
+            "name": "Emerald",
+            "description": "A captivating green gemstone known for its vibrant hue and clarity.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 20
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 20
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "8c3fbee1-ba68-4166-851d-17600ec5a9e8": {
+            "id": "8c3fbee1-ba68-4166-851d-17600ec5a9e8",
+            "imageSrc": "ethereum-ore.png",
+            "name": "Ethereum Ore",
+            "description": "This dark purple ore exudes a mysterious energy, as if holding secrets from other realms.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1370
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 700
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "fee5e07e-4397-44a9-9e3a-ed0465ce29fc": {
+            "id": "fee5e07e-4397-44a9-9e3a-ed0465ce29fc",
+            "imageSrc": "gold-nugget.png",
+            "name": "Gold Nugget",
+            "description": "A small chunk of this precious metal known for its distinct shine and value.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Gold",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 40
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 40
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "20db50e2-8a10-416f-b4d7-3d0139ba8dcc": {
+            "id": "20db50e2-8a10-416f-b4d7-3d0139ba8dcc",
+            "imageSrc": "iron-ore.png",
+            "name": "Iron Ore",
+            "description": "A commonly found metal ore.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 14
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 15
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "e58d9044-4a38-4e28-9bcb-7b6f0cfee2c6": {
+            "id": "e58d9044-4a38-4e28-9bcb-7b6f0cfee2c6",
+            "imageSrc": "lionite-ore.png",
+            "name": "Lionite Ore",
+            "description": "Golden and radiant, this ore roars with the strength and majesty of a lion.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 980
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 575
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "87027736-6480-426e-bc09-8384364a3452": {
+            "id": "87027736-6480-426e-bc09-8384364a3452",
+            "imageSrc": "mithril-ore.png",
+            "name": "Mithril Ore",
+            "description": "A rare, silver-like metal known for its strength and lightweight properties. Found deep within mountain cores.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 134
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 60
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "42cf66af-28bb-47ce-945f-b3c8bb8b2079": {
+            "id": "42cf66af-28bb-47ce-945f-b3c8bb8b2079",
+            "imageSrc": "phantom-ore.png",
+            "name": "Phantom Ore",
+            "description": "Almost translucent, this ore appears and disappears with one's gaze. Elusive and otherworldly.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Phantom",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 700
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 450
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "f5a6063f-cc99-48bf-bc79-f764cd87373a": {
+            "id": "f5a6063f-cc99-48bf-bc79-f764cd87373a",
+            "imageSrc": "ruby.png",
+            "name": "Ruby",
+            "description": "A deep red gem that glows passionately under light, often seen as a symbol of love.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 30
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 30
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "6466a2ec-3f08-49f2-b3ad-4ab981658ea4": {
+            "id": "6466a2ec-3f08-49f2-b3ad-4ab981658ea4",
+            "imageSrc": "rune-ore.png",
+            "name": "Rune Ore",
+            "description": "A mystical ore infused with ancient magics. Often seen glowing with a soft blue hue.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 260
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 110
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "723a48a0-e3cb-4ebd-9966-ee8323b11dc0": {
+            "id": "723a48a0-e3cb-4ebd-9966-ee8323b11dc0",
+            "imageSrc": "sapphire.png",
+            "name": "Sapphire",
+            "description": "A mesmerizing blue gem, emblematic of the vastness and depth of the oceans.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 10
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 10
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "8f750952-b2c8-4e7e-b45c-0fa404a94176": {
+            "id": "8f750952-b2c8-4e7e-b45c-0fa404a94176",
+            "imageSrc": null,
+            "name": "Silver",
+            "description": "A shiny and ductile metal, often associated with luxury and wealth.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 20
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 20
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "37fe36d4-06a9-4b47-adf7-3a292db2edc8": {
+            "id": "37fe36d4-06a9-4b47-adf7-3a292db2edc8",
+            "imageSrc": "tin-ore.png",
+            "name": "Tin Ore",
+            "description": "Soft and malleable, this metal is combined with copper ore to produce bronze.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 1
+                    }
+                }
+            ],
+            "recipe": null
+        }
+    }
+}

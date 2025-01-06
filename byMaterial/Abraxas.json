@@ -1,0 +1,825 @@
+{
+    "meta": {
+        "count": 18,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "671f831a-6d2f-4ca5-810b-b6e2a2f8d8c4": {
+            "id": "671f831a-6d2f-4ca5-810b-b6e2a2f8d8c4",
+            "imageSrc": "abraxas-2h-axe.png",
+            "name": "Abraxas Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 89
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 112
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 120
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3125
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "671f831a-6d2f-4ca5-810b-b6e2a2f8d8c4",
+                    "name": "Abraxas Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 163
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "533cf2e8-2815-4601-9f47-f22d6d572366": {
+            "id": "533cf2e8-2815-4601-9f47-f22d6d572366",
+            "imageSrc": "abraxas-2h-sword.png",
+            "name": "Abraxas Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 102
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 102
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 120
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3125
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "533cf2e8-2815-4601-9f47-f22d6d572366",
+                    "name": "Abraxas Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 163
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "48289609-413e-4a95-a3fd-166168bc7da3": {
+            "id": "48289609-413e-4a95-a3fd-166168bc7da3",
+            "imageSrc": "abraxas-axe.png",
+            "name": "Abraxas Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 69
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 78
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 120
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3125
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "48289609-413e-4a95-a3fd-166168bc7da3",
+                    "name": "Abraxas Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 159
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "65a2ad87-c211-440a-b4be-f02473124d67": {
+            "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+            "imageSrc": "abraxas-bar.png",
+            "name": "Coal",
+            "description": "Gleaming with a celestial shine, this bar is believed to be blessed by the gods.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 500
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                    "name": "Coal",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6ab74c23-1ff2-45ff-95a7-ca86a464e25a",
+                        "name": "Abraxas Ore",
+                        "amount": 1
+                    },
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 15
+                    }
+                ]
+            }
+        },
+        "9304864b-0238-489f-9c88-a1e2904c96c9": {
+            "id": "9304864b-0238-489f-9c88-a1e2904c96c9",
+            "imageSrc": "abraxas-boots.png",
+            "name": "Abraxas Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 88
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 120
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1875
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "9304864b-0238-489f-9c88-a1e2904c96c9",
+                    "name": "Abraxas Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 154
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "b812a722-1817-48c8-a290-16dc92f14d64": {
+            "id": "b812a722-1817-48c8-a290-16dc92f14d64",
+            "imageSrc": "abraxas-bow.png",
+            "name": "Ebonshade Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 102
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 102
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 120
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2750
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "b812a722-1817-48c8-a290-16dc92f14d64",
+                    "name": "Ebonshade Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 163
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "17312446-d68e-42d4-bcd7-38d98b21149e",
+                        "name": "Ebonshade Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "1df7d697-9abd-433d-9db0-786456f9c40c": {
+            "id": "1df7d697-9abd-433d-9db0-786456f9c40c",
+            "imageSrc": "abraxas-chest.png",
+            "name": "Abraxas Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 128
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 120
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3125
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "1df7d697-9abd-433d-9db0-786456f9c40c",
+                    "name": "Abraxas Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 167
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "2bd6de3d-c0fd-42ae-acd5-69745cd68a2f": {
+            "id": "2bd6de3d-c0fd-42ae-acd5-69745cd68a2f",
+            "imageSrc": "abraxas-gloves.png",
+            "name": "Abraxas Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 80
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 120
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1875
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "2bd6de3d-c0fd-42ae-acd5-69745cd68a2f",
+                    "name": "Abraxas Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 155
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "9b20661a-e0dc-4a70-868b-5d6f34492c34": {
+            "id": "9b20661a-e0dc-4a70-868b-5d6f34492c34",
+            "imageSrc": "abraxas-helmet.png",
+            "name": "Abraxas Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 73
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 120
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1875
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "9b20661a-e0dc-4a70-868b-5d6f34492c34",
+                    "name": "Abraxas Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 156
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "8975dc29-f9b4-4610-83c0-f00dd1a98c34": {
+            "id": "8975dc29-f9b4-4610-83c0-f00dd1a98c34",
+            "imageSrc": "abraxas-katana.png",
+            "name": "Abraxas Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 94
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 110
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 120
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3125
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "8975dc29-f9b4-4610-83c0-f00dd1a98c34",
+                    "name": "Abraxas Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 164
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "61978101-3dc9-4a4f-a9e8-42465ff2be47": {
+            "id": "61978101-3dc9-4a4f-a9e8-42465ff2be47",
+            "imageSrc": "abraxas-leggings.png",
+            "name": "Abraxas Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 83
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 120
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2500
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "61978101-3dc9-4a4f-a9e8-42465ff2be47",
+                    "name": "Abraxas Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 165
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "6ab74c23-1ff2-45ff-95a7-ca86a464e25a": {
+            "id": "6ab74c23-1ff2-45ff-95a7-ca86a464e25a",
+            "imageSrc": "abraxas-ore.png",
+            "name": "Abraxas Ore",
+            "description": "A deep purple ore that seems to constantly shift and shimmer, as if holding a universe within.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 500
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 350
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "eb89cb51-d84b-47cf-aa64-7ecd3c4e9c88": {
+            "id": "eb89cb51-d84b-47cf-aa64-7ecd3c4e9c88",
+            "imageSrc": "abraxas-shield.png",
+            "name": "Abraxas Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 83
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 120
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2500
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "eb89cb51-d84b-47cf-aa64-7ecd3c4e9c88",
+                    "name": "Abraxas Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 164
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "af7c3ba3-2239-424f-99ba-a7b4796c10e5": {
+            "id": "af7c3ba3-2239-424f-99ba-a7b4796c10e5",
+            "imageSrc": "abraxas-spear.png",
+            "name": "Ebonshade Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 96
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 106
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 120
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2750
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "af7c3ba3-2239-424f-99ba-a7b4796c10e5",
+                    "name": "Ebonshade Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 163
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "17312446-d68e-42d4-bcd7-38d98b21149e",
+                        "name": "Ebonshade Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "f9b7e6a3-4e4a-4e4a-b79d-42a3cf2a16c8": {
+            "id": "f9b7e6a3-4e4a-4e4a-b79d-42a3cf2a16c8",
+            "imageSrc": "abraxas-spirit.png",
+            "name": "Abraxas Spirit",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 500
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "aefd1abd-6843-42ec-93e1-0b718be068ce": {
+            "id": "aefd1abd-6843-42ec-93e1-0b718be068ce",
+            "imageSrc": "abraxas-staff.png",
+            "name": "Ebonshade Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 102
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 102
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 120
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2750
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "aefd1abd-6843-42ec-93e1-0b718be068ce",
+                    "name": "Ebonshade Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 163
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "17312446-d68e-42d4-bcd7-38d98b21149e",
+                        "name": "Ebonshade Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "736e2478-bbee-4d58-b60f-904cb57c6067": {
+            "id": "736e2478-bbee-4d58-b60f-904cb57c6067",
+            "imageSrc": "abraxas-sword.png",
+            "name": "Abraxas Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 74
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 74
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 120
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1875
+            },
+            "maxEnchantments": 3,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "736e2478-bbee-4d58-b60f-904cb57c6067",
+                    "name": "Abraxas Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 155
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "65a2ad87-c211-440a-b4be-f02473124d67",
+                        "name": "Abraxas Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "0a816d30-a02a-4f8b-8f92-0635cc34f0cb": {
+            "id": "0a816d30-a02a-4f8b-8f92-0635cc34f0cb",
+            "imageSrc": "abraxas-token.png",
+            "name": "Abraxas Token",
+            "description": "An old token that no longer bears any value.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Scroll",
+            "type": "Scroll",
+            "material": "Abraxas",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        }
+    }
+}

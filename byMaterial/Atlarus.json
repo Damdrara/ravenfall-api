@@ -1,0 +1,805 @@
+{
+    "meta": {
+        "count": 17,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "d9dc11e5-72d7-44a7-83e1-a003c509da15": {
+            "id": "d9dc11e5-72d7-44a7-83e1-a003c509da15",
+            "imageSrc": "atlarus-2h-axe.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 274
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 343
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 400
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 16000
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "d9dc11e5-72d7-44a7-83e1-a003c509da15",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 413
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "491d4ae4-50b1-4277-8a26-5aaa315bb4e7": {
+            "id": "491d4ae4-50b1-4277-8a26-5aaa315bb4e7",
+            "imageSrc": "atlarus-2h-sword.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 312
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 312
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 400
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 16000
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "491d4ae4-50b1-4277-8a26-5aaa315bb4e7",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 413
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "5f60e0f5-1267-4a16-80be-b3a15cfa32be": {
+            "id": "5f60e0f5-1267-4a16-80be-b3a15cfa32be",
+            "imageSrc": "atlarus-axe.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 206
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 233
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 400
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 16000
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "5f60e0f5-1267-4a16-80be-b3a15cfa32be",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 409
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0": {
+            "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+            "imageSrc": "atlarus-bar.png",
+            "name": "Coal",
+            "description": "Radiating with a bright, golden shine, this bar is imbued with the essence of sunlit realms. Said to be the material of the gods.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2600
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                    "name": "Coal",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 350
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "5923cf2c-3be6-4dbe-885e-bf30092730a0",
+                        "name": "Atlarus Ore",
+                        "amount": 1
+                    },
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 50
+                    }
+                ]
+            }
+        },
+        "db867563-5326-4218-b916-ea200ed12cfb": {
+            "id": "db867563-5326-4218-b916-ea200ed12cfb",
+            "imageSrc": "atlarus-boots.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 133
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 400
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 9750
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "db867563-5326-4218-b916-ea200ed12cfb",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 404
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "dc3a5084-8943-45d4-a395-21bc548bb664": {
+            "id": "dc3a5084-8943-45d4-a395-21bc548bb664",
+            "imageSrc": "atlarus-bow.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 312
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 312
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 400
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 13000
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "dc3a5084-8943-45d4-a395-21bc548bb664",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 413
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "4cfeb511-e46a-4428-b8ba-4d803e2b8d3f",
+                        "name": "Shadowoak Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "439d94d2-5058-4769-8b86-86969b14767f": {
+            "id": "439d94d2-5058-4769-8b86-86969b14767f",
+            "imageSrc": "atlarus-chest.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 208
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 400
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 16000
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "439d94d2-5058-4769-8b86-86969b14767f",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 417
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "492359ac-9b72-4441-9d83-79f2306bcb97": {
+            "id": "492359ac-9b72-4441-9d83-79f2306bcb97",
+            "imageSrc": "atlarus-gloves.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 150
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 400
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 9750
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "492359ac-9b72-4441-9d83-79f2306bcb97",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 405
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "2d4311d9-f442-4c8e-a55d-2c33fdee6911": {
+            "id": "2d4311d9-f442-4c8e-a55d-2c33fdee6911",
+            "imageSrc": "atlarus-helmet.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 190
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 400
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 9750
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "2d4311d9-f442-4c8e-a55d-2c33fdee6911",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 406
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "f457fa5d-e7d8-4683-85c6-b59fe03ee77c": {
+            "id": "f457fa5d-e7d8-4683-85c6-b59fe03ee77c",
+            "imageSrc": "atlarus-katana.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 288
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 335
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 400
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 16000
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f457fa5d-e7d8-4683-85c6-b59fe03ee77c",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 414
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "0bc4120f-155b-437e-97ff-d072bd961f0f": {
+            "id": "0bc4120f-155b-437e-97ff-d072bd961f0f",
+            "imageSrc": "atlarus-leggings.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 181
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 400
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 13000
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "0bc4120f-155b-437e-97ff-d072bd961f0f",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 415
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "58660f5a-e307-49ff-9bd7-7f3e00c9d9e6": {
+            "id": "58660f5a-e307-49ff-9bd7-7f3e00c9d9e6",
+            "imageSrc": "atlarus-light.png",
+            "name": "Atlarus Light",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2600
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "5923cf2c-3be6-4dbe-885e-bf30092730a0": {
+            "id": "5923cf2c-3be6-4dbe-885e-bf30092730a0",
+            "imageSrc": "atlarus-ore.png",
+            "name": "Atlarus Ore",
+            "description": "A radiant gemstone-like ore, named after a legendary sky deity.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2600
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 999
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "067d1a87-be34-4703-aa94-ae052f869b6c": {
+            "id": "067d1a87-be34-4703-aa94-ae052f869b6c",
+            "imageSrc": "atlarus-shield.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 181
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 400
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 13000
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "067d1a87-be34-4703-aa94-ae052f869b6c",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 414
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "e26c7a2d-d72d-4b17-8ef6-fec4b9ac16f8": {
+            "id": "e26c7a2d-d72d-4b17-8ef6-fec4b9ac16f8",
+            "imageSrc": "atlarus-spear.png",
+            "name": "Shadowoak Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 296
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 324
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 400
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 13000
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "e26c7a2d-d72d-4b17-8ef6-fec4b9ac16f8",
+                    "name": "Shadowoak Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 413
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "4cfeb511-e46a-4428-b8ba-4d803e2b8d3f",
+                        "name": "Shadowoak Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "68feaa2a-562b-4c2c-a894-d331552a8bcb": {
+            "id": "68feaa2a-562b-4c2c-a894-d331552a8bcb",
+            "imageSrc": "atlarus-staff.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 312
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 312
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 400
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 13000
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "68feaa2a-562b-4c2c-a894-d331552a8bcb",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 413
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "4cfeb511-e46a-4428-b8ba-4d803e2b8d3f",
+                        "name": "Shadowoak Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "22b6bcd5-7c36-4970-914d-42e9e08d20b4": {
+            "id": "22b6bcd5-7c36-4970-914d-42e9e08d20b4",
+            "imageSrc": "atlarus-sword.png",
+            "name": "Atlarus Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 220
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 220
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 400
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Atlarus",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 9750
+            },
+            "maxEnchantments": 8,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "22b6bcd5-7c36-4970-914d-42e9e08d20b4",
+                    "name": "Atlarus Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 405
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3a5cbeed-13e9-4906-bfd6-cdc18f1048b0",
+                        "name": "Atlarus Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        }
+    }
+}

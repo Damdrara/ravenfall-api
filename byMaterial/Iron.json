@@ -1,0 +1,869 @@
+{
+    "meta": {
+        "count": 19,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "b232c3ab-1bcc-4a5b-830f-0f9221842cec": {
+            "id": "b232c3ab-1bcc-4a5b-830f-0f9221842cec",
+            "imageSrc": "elder-iron-bar.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 14
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "b232c3ab-1bcc-4a5b-830f-0f9221842cec",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 450
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 70
+                    },
+                    {
+                        "id": "b256a40e-7917-4975-88d2-f9b220c621fd",
+                        "name": "Eldrium",
+                        "amount": 4
+                    },
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "5189c276-d78c-4e8c-85fa-3f304e167aa3": {
+            "id": "5189c276-d78c-4e8c-85fa-3f304e167aa3",
+            "imageSrc": "iron-2h-axe.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 12
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 15
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 87
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "5189c276-d78c-4e8c-85fa-3f304e167aa3",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 23
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "344d2ea5-36b8-44ee-bf5f-6ed1495e5566": {
+            "id": "344d2ea5-36b8-44ee-bf5f-6ed1495e5566",
+            "imageSrc": "iron-2h-sword.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 14
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 14
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 87
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "344d2ea5-36b8-44ee-bf5f-6ed1495e5566",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 23
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "3044d5a0-595a-4199-a030-2a042f1eaad1": {
+            "id": "3044d5a0-595a-4199-a030-2a042f1eaad1",
+            "imageSrc": "iron-axe.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 8
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 9
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 87
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "3044d5a0-595a-4199-a030-2a042f1eaad1",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 19
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "ba8f06fc-fba7-4012-a37a-63b69a29d933": {
+            "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+            "imageSrc": "iron-bar.png",
+            "name": "Iron Ore",
+            "description": "This hardy bar of iron is often used as the backbone of many strong tools and weapons.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 14
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                    "name": "Iron Ore",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 10
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "20db50e2-8a10-416f-b4d7-3d0139ba8dcc",
+                        "name": "Iron Ore",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "36b45894-7b40-4cc3-a8a2-0f8a961aea67": {
+            "id": "36b45894-7b40-4cc3-a8a2-0f8a961aea67",
+            "imageSrc": "iron-boots.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 10
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 1
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 52
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "36b45894-7b40-4cc3-a8a2-0f8a961aea67",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 14
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "31b61f34-33bb-4b95-8e30-4b296b6460ec": {
+            "id": "31b61f34-33bb-4b95-8e30-4b296b6460ec",
+            "imageSrc": "iron-bow.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 14
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 14
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 72
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "31b61f34-33bb-4b95-8e30-4b296b6460ec",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 23
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a2747fd8-70da-48c9-a54c-41914975d1b3",
+                        "name": "Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "b84a7909-dfa5-42e1-b4ee-2bfb21f0d5ec": {
+            "id": "b84a7909-dfa5-42e1-b4ee-2bfb21f0d5ec",
+            "imageSrc": "iron-chest.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 20
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 1
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 87
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "b84a7909-dfa5-42e1-b4ee-2bfb21f0d5ec",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 27
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "8bea9ac6-8ea6-4313-81db-ad548946dbcd": {
+            "id": "8bea9ac6-8ea6-4313-81db-ad548946dbcd",
+            "imageSrc": "iron-emblem.png",
+            "name": "Iron Emblem",
+            "description": "A signet representing Ironhill",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Alchemy",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 14
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "9dd3a277-99b6-43b3-ab3d-42942e83c51b": {
+            "id": "9dd3a277-99b6-43b3-ab3d-42942e83c51b",
+            "imageSrc": "iron-gloves.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 7
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 1
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 52
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "9dd3a277-99b6-43b3-ab3d-42942e83c51b",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "9855946d-d394-4c65-9c95-40a537910808": {
+            "id": "9855946d-d394-4c65-9c95-40a537910808",
+            "imageSrc": "iron-helmet.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 6
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 1
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 52
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "9855946d-d394-4c65-9c95-40a537910808",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 16
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "35050344-1949-427a-97af-fcce672877e5": {
+            "id": "35050344-1949-427a-97af-fcce672877e5",
+            "imageSrc": "iron-katana.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 13
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 14
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 87
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "35050344-1949-427a-97af-fcce672877e5",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 24
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "8726822e-755b-49c6-93fd-b0d51170b5e7": {
+            "id": "8726822e-755b-49c6-93fd-b0d51170b5e7",
+            "imageSrc": "iron-leggings.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 10
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 1
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 70
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "8726822e-755b-49c6-93fd-b0d51170b5e7",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 25
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "cc61e4a3-b00e-4fd4-9160-16a6466787e6": {
+            "id": "cc61e4a3-b00e-4fd4-9160-16a6466787e6",
+            "imageSrc": "iron-nugget.png",
+            "name": "Iron Nugget",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 14
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "20db50e2-8a10-416f-b4d7-3d0139ba8dcc": {
+            "id": "20db50e2-8a10-416f-b4d7-3d0139ba8dcc",
+            "imageSrc": "iron-ore.png",
+            "name": "Iron Ore",
+            "description": "A commonly found metal ore.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 14
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 15
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "eb010db0-258b-4976-99d7-5f891008bc16": {
+            "id": "eb010db0-258b-4976-99d7-5f891008bc16",
+            "imageSrc": "iron-shield.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 10
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 1
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 70
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "eb010db0-258b-4976-99d7-5f891008bc16",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 24
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "1477ca6b-8ad1-400e-aa11-04ef3e5bc049": {
+            "id": "1477ca6b-8ad1-400e-aa11-04ef3e5bc049",
+            "imageSrc": "iron-spear.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 13
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 14
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 72
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "1477ca6b-8ad1-400e-aa11-04ef3e5bc049",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 23
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a2747fd8-70da-48c9-a54c-41914975d1b3",
+                        "name": "Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "061ab999-b6c2-497a-b38b-5ee269bdb2d1": {
+            "id": "061ab999-b6c2-497a-b38b-5ee269bdb2d1",
+            "imageSrc": "iron-staff.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 14
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 14
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 72
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "061ab999-b6c2-497a-b38b-5ee269bdb2d1",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 23
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a2747fd8-70da-48c9-a54c-41914975d1b3",
+                        "name": "Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "159b85fd-22e4-46cd-9f0e-0794c39ed5b7": {
+            "id": "159b85fd-22e4-46cd-9f0e-0794c39ed5b7",
+            "imageSrc": "iron-sword.png",
+            "name": "Iron Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 9
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 9
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 1
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Iron",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 52
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "159b85fd-22e4-46cd-9f0e-0794c39ed5b7",
+                    "name": "Iron Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "ba8f06fc-fba7-4012-a37a-63b69a29d933",
+                        "name": "Iron Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        }
+    }
+}

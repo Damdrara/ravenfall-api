@@ -1,0 +1,1094 @@
+{
+    "meta": {
+        "count": 24,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "41a64ee6-940d-48b2-8561-7dea37adb847": {
+            "id": "41a64ee6-940d-48b2-8561-7dea37adb847",
+            "imageSrc": "defense-potion.png",
+            "name": "Vial",
+            "description": "Boosts defense, reducing damage taken for a limited time.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 100
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "41a64ee6-940d-48b2-8561-7dea37adb847",
+                    "name": "Vial",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "4160cd7e-eeb6-4c6b-ba62-a93483750a49",
+                        "name": "Sage",
+                        "amount": 1
+                    },
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "007c46c8-d7e9-4d3d-9063-fd3b0ff78fa0": {
+            "id": "007c46c8-d7e9-4d3d-9063-fd3b0ff78fa0",
+            "imageSrc": "great-defense-potion.png",
+            "name": "Vial",
+            "description": "Significantly boosts defense, greatly reducing damage taken for an extended period.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 312
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "007c46c8-d7e9-4d3d-9063-fd3b0ff78fa0",
+                    "name": "Vial",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 200
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "140409b9-c867-487e-8db7-8901f7195fb8",
+                        "name": "Mugwort",
+                        "amount": 1
+                    },
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "6a7c5c1e-03da-418e-b516-e3621b4858c9": {
+            "id": "6a7c5c1e-03da-418e-b516-e3621b4858c9",
+            "imageSrc": "great-healing-potion.png",
+            "name": "Lemon Balm",
+            "description": "Significantly boosts the effectiveness of healing spells and abilities for an extended duration.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 650
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "6a7c5c1e-03da-418e-b516-e3621b4858c9",
+                    "name": "Lemon Balm",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 400
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    },
+                    {
+                        "id": "e560a499-e30d-4f01-8bb8-64560eb5225f",
+                        "name": "Lemon Balm",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "14baa52e-dd17-45d5-8ee4-e5798d7ef575": {
+            "id": "14baa52e-dd17-45d5-8ee4-e5798d7ef575",
+            "imageSrc": "great-health-potion.png",
+            "name": "Vial",
+            "description": "Restores a large portion of health instantly.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 250
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "14baa52e-dd17-45d5-8ee4-e5798d7ef575",
+                    "name": "Vial",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 160
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "ec4301f8-eda3-47a8-847f-9646f5753b3e",
+                        "name": "Red Clover",
+                        "amount": 1
+                    },
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "68729e3a-fdef-4f22-b0ae-fbe0ce0e5902": {
+            "id": "68729e3a-fdef-4f22-b0ae-fbe0ce0e5902",
+            "imageSrc": "great-magic-potion.png",
+            "name": "Wormwood",
+            "description": "Significantly amplifies magical abilities for a longer duration.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 437
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "68729e3a-fdef-4f22-b0ae-fbe0ce0e5902",
+                    "name": "Wormwood",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 280
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    },
+                    {
+                        "id": "dfccad37-ffdd-4c2b-89fb-804d181654e1",
+                        "name": "Wormwood",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "cc9e1876-a990-4ce8-ada5-45a0e15ac075": {
+            "id": "cc9e1876-a990-4ce8-ada5-45a0e15ac075",
+            "imageSrc": "great-ranged-potion.png",
+            "name": "Skullcap",
+            "description": "Significantly enhances ranged accuracy and power for an extended period.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 525
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "cc9e1876-a990-4ce8-ada5-45a0e15ac075",
+                    "name": "Skullcap",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 360
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    },
+                    {
+                        "id": "41fc1c82-ac78-4c1a-8cef-f3bccbe53348",
+                        "name": "Skullcap",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "9a887209-b773-4a3c-bad9-847e18b1f2f7": {
+            "id": "9a887209-b773-4a3c-bad9-847e18b1f2f7",
+            "imageSrc": "great-strength-potion.png",
+            "name": "Vial",
+            "description": "Greatly increases physical power for an extended period.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 375
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "9a887209-b773-4a3c-bad9-847e18b1f2f7",
+                    "name": "Vial",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 240
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a92b90a0-0f51-46f2-9165-b0645abf2e1b",
+                        "name": "Goldenrod",
+                        "amount": 1
+                    },
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "938f22e2-3b3a-4b96-afb2-2966ed346962": {
+            "id": "938f22e2-3b3a-4b96-afb2-2966ed346962",
+            "imageSrc": "healing-potion.png",
+            "name": "Vial",
+            "description": "Boosts the effectiveness of healing spells and abilities for a limited time.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 200
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "938f22e2-3b3a-4b96-afb2-2966ed346962",
+                    "name": "Vial",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 120
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0c76b4be-9ab9-42c0-b395-a54a2a7ecc30",
+                        "name": "Chamomile",
+                        "amount": 1
+                    },
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "d462cc5f-9797-4463-a708-ddd8f0e4d5e6": {
+            "id": "d462cc5f-9797-4463-a708-ddd8f0e4d5e6",
+            "imageSrc": "health-potion.png",
+            "name": "Vial",
+            "description": "Restores a small portion of health instantly.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 37
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "d462cc5f-9797-4463-a708-ddd8f0e4d5e6",
+                    "name": "Vial",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 10
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "9d5c034a-4a64-4d6c-990b-e57f36d915aa",
+                        "name": "Yarrow",
+                        "amount": 1
+                    },
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "f27bfbb9-f303-403e-89c8-fdadd0db0f05": {
+            "id": "f27bfbb9-f303-403e-89c8-fdadd0db0f05",
+            "imageSrc": "magic-potion.png",
+            "name": "Vial",
+            "description": "Amplifies magical abilities for a short span.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 150
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f27bfbb9-f303-403e-89c8-fdadd0db0f05",
+                    "name": "Vial",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 80
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dac5bdf-f673-447a-a043-082f9350897c",
+                        "name": "Elderflower",
+                        "amount": 1
+                    },
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "2e4b81dc-96fc-462e-b617-f3c9ae11b9bb": {
+            "id": "2e4b81dc-96fc-462e-b617-f3c9ae11b9bb",
+            "imageSrc": "paper.png",
+            "name": "Resin",
+            "description": "A thin sheet made from pressed plant fibers. Perfect for recording knowledge.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Alchemy",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 40
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "2e4b81dc-96fc-462e-b617-f3c9ae11b9bb",
+                    "name": "Resin",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 40
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "020dda33-8f9e-49fe-93a5-b58062b8a720",
+                        "name": "Wood Pulp",
+                        "amount": 1
+                    },
+                    {
+                        "id": "c2d5eb85-0ff0-43d9-bf75-8d1cd764177c",
+                        "name": "Resin",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "ee50cec2-f3cc-4607-9991-7c2e6fe24bbb": {
+            "id": "ee50cec2-f3cc-4607-9991-7c2e6fe24bbb",
+            "imageSrc": "ranged-potion.png",
+            "name": "Vial",
+            "description": "Enhances ranged accuracy and power for a short time.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 175
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "ee50cec2-f3cc-4607-9991-7c2e6fe24bbb",
+                    "name": "Vial",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6fef70d8-52c3-4e1d-a4c7-38b73d888b85",
+                        "name": "Valerian",
+                        "amount": 1
+                    },
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "1948ff4f-5969-4f24-9a08-8797e22a21e7": {
+            "id": "1948ff4f-5969-4f24-9a08-8797e22a21e7",
+            "imageSrc": "regen-potion.png",
+            "name": "Comfrey",
+            "description": "Gradually restores health over a short duration.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 75
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "1948ff4f-5969-4f24-9a08-8797e22a21e7",
+                    "name": "Comfrey",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 30
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    },
+                    {
+                        "id": "7f4186e6-e8f0-40d2-b50c-2cf27a779328",
+                        "name": "Comfrey",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "bd65c000-0779-4f10-aada-7974ddf748c7": {
+            "id": "bd65c000-0779-4f10-aada-7974ddf748c7",
+            "imageSrc": "strength-potion.png",
+            "name": "Vial",
+            "description": "Increases physical power for a limited duration.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 125
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "bd65c000-0779-4f10-aada-7974ddf748c7",
+                    "name": "Vial",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 70
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "d176685e-36f7-49c3-8438-b36e8085fd32",
+                        "name": "Lavender",
+                        "amount": 1
+                    },
+                    {
+                        "id": "612ac9ee-110b-4ffb-972e-8a3aa3289915",
+                        "name": "Vial",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "1cef05ef-82ac-4f09-98ba-f0d82f1e830a": {
+            "id": "1cef05ef-82ac-4f09-98ba-f0d82f1e830a",
+            "imageSrc": "string.png",
+            "name": "Hemp",
+            "description": "A sturdy string, often used in crafting and alchemy.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Alchemy",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 20
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "1cef05ef-82ac-4f09-98ba-f0d82f1e830a",
+                    "name": "Hemp",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 20
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "d5a05c45-d9b3-40e5-b198-1d639b333b14",
+                        "name": "Hemp",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "97a9d3a5-ee36-40c2-8143-20609ceabf99": {
+            "id": "97a9d3a5-ee36-40c2-8143-20609ceabf99",
+            "imageSrc": "tome-of-atria.png",
+            "name": "Atrias Feather",
+            "description": "A magical tome that allows the user to teleport to Atria.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 76
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "97a9d3a5-ee36-40c2-8143-20609ceabf99",
+                    "name": "Atrias Feather",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 430
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2e4b81dc-96fc-462e-b617-f3c9ae11b9bb",
+                        "name": "Paper",
+                        "amount": 1
+                    },
+                    {
+                        "id": "1cef05ef-82ac-4f09-98ba-f0d82f1e830a",
+                        "name": "String",
+                        "amount": 1
+                    },
+                    {
+                        "id": "5bcb8f2c-e13c-4679-8682-06f70d6cc74f",
+                        "name": "Atrias Feather",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "44e32b68-8d66-4665-87ac-9e2b8b959ad6": {
+            "id": "44e32b68-8d66-4665-87ac-9e2b8b959ad6",
+            "imageSrc": "tome-of-away.png",
+            "name": "Paper",
+            "description": "A magical tome that allows the user to teleport to Away island.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 76
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "44e32b68-8d66-4665-87ac-9e2b8b959ad6",
+                    "name": "Paper",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "af8a3f7e-12e4-4697-ba5f-4f0e7038d32d",
+                        "name": "Wanderers Gem",
+                        "amount": 1
+                    },
+                    {
+                        "id": "1cef05ef-82ac-4f09-98ba-f0d82f1e830a",
+                        "name": "String",
+                        "amount": 1
+                    },
+                    {
+                        "id": "2e4b81dc-96fc-462e-b617-f3c9ae11b9bb",
+                        "name": "Paper",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "5667b803-f33b-4d5a-b337-105c3c9678ed": {
+            "id": "5667b803-f33b-4d5a-b337-105c3c9678ed",
+            "imageSrc": "tome-of-eldara.png",
+            "name": "String",
+            "description": "A magical tome that allows the user to teleport to Eldara.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 76
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "5667b803-f33b-4d5a-b337-105c3c9678ed",
+                    "name": "String",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 500
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2e4b81dc-96fc-462e-b617-f3c9ae11b9bb",
+                        "name": "Paper",
+                        "amount": 1
+                    },
+                    {
+                        "id": "0fd2bb82-8b68-4d73-8806-e1fbb7274d21",
+                        "name": "Eldaras Mark",
+                        "amount": 1
+                    },
+                    {
+                        "id": "1cef05ef-82ac-4f09-98ba-f0d82f1e830a",
+                        "name": "String",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "e72d9f56-e25d-4f58-b344-483f889c8db4": {
+            "id": "e72d9f56-e25d-4f58-b344-483f889c8db4",
+            "imageSrc": "tome-of-heim.png",
+            "name": "Paper",
+            "description": "A magical tome that allows the user to teleport to Heim.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 76
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "e72d9f56-e25d-4f58-b344-483f889c8db4",
+                    "name": "Paper",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 360
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1cef05ef-82ac-4f09-98ba-f0d82f1e830a",
+                        "name": "String",
+                        "amount": 1
+                    },
+                    {
+                        "id": "91c86032-17d7-4d60-abab-0eeff8463706",
+                        "name": "Heim Rune",
+                        "amount": 1
+                    },
+                    {
+                        "id": "2e4b81dc-96fc-462e-b617-f3c9ae11b9bb",
+                        "name": "Paper",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "c460d133-38d0-45d3-bddc-ee38f21bc48e": {
+            "id": "c460d133-38d0-45d3-bddc-ee38f21bc48e",
+            "imageSrc": "tome-of-home.png",
+            "name": "String",
+            "description": "A magical tome that allows the user to teleport to Home island.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 76
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "c460d133-38d0-45d3-bddc-ee38f21bc48e",
+                    "name": "String",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 80
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "76fe14ed-e994-4e15-85a7-a49a7f34c61f",
+                        "name": "Hearthstone",
+                        "amount": 1
+                    },
+                    {
+                        "id": "2e4b81dc-96fc-462e-b617-f3c9ae11b9bb",
+                        "name": "Paper",
+                        "amount": 1
+                    },
+                    {
+                        "id": "1cef05ef-82ac-4f09-98ba-f0d82f1e830a",
+                        "name": "String",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "5384aaac-82b9-45b3-90cc-a7a0a238e2f5": {
+            "id": "5384aaac-82b9-45b3-90cc-a7a0a238e2f5",
+            "imageSrc": "tome-of-ironhill.png",
+            "name": "Paper",
+            "description": "A magical tome that allows the user to teleport to Ironhill.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 92
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "5384aaac-82b9-45b3-90cc-a7a0a238e2f5",
+                    "name": "Paper",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 220
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1cef05ef-82ac-4f09-98ba-f0d82f1e830a",
+                        "name": "String",
+                        "amount": 1
+                    },
+                    {
+                        "id": "8bea9ac6-8ea6-4313-81db-ad548946dbcd",
+                        "name": "Iron Emblem",
+                        "amount": 1
+                    },
+                    {
+                        "id": "2e4b81dc-96fc-462e-b617-f3c9ae11b9bb",
+                        "name": "Paper",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "753278c9-99fc-49ec-aa42-ea5c298080a5": {
+            "id": "753278c9-99fc-49ec-aa42-ea5c298080a5",
+            "imageSrc": "tome-of-kyo.png",
+            "name": "Paper",
+            "description": "A magical tome that allows the user to teleport to Kyo.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 76
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "753278c9-99fc-49ec-aa42-ea5c298080a5",
+                    "name": "Paper",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 290
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1cef05ef-82ac-4f09-98ba-f0d82f1e830a",
+                        "name": "String",
+                        "amount": 1
+                    },
+                    {
+                        "id": "2126d2ac-fbf2-4cb7-a487-55497288cb3a",
+                        "name": "Kyo Crystal",
+                        "amount": 1
+                    },
+                    {
+                        "id": "2e4b81dc-96fc-462e-b617-f3c9ae11b9bb",
+                        "name": "Paper",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "1de3fa80-13ae-4922-99bd-669e9bc83938": {
+            "id": "1de3fa80-13ae-4922-99bd-669e9bc83938",
+            "imageSrc": "tome-of-teleportation.png",
+            "name": "Realmstone",
+            "description": "A magical tome that allows the user to teleport to a chosen island.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Potion",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 76
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "1de3fa80-13ae-4922-99bd-669e9bc83938",
+                    "name": "Realmstone",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 700
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2e4b81dc-96fc-462e-b617-f3c9ae11b9bb",
+                        "name": "Paper",
+                        "amount": 1
+                    },
+                    {
+                        "id": "1cef05ef-82ac-4f09-98ba-f0d82f1e830a",
+                        "name": "String",
+                        "amount": 1
+                    },
+                    {
+                        "id": "efaace37-de9b-48d5-8fb7-bdc3d8ef616a",
+                        "name": "Realmstone",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "020dda33-8f9e-49fe-93a5-b58062b8a720": {
+            "id": "020dda33-8f9e-49fe-93a5-b58062b8a720",
+            "imageSrc": "wood-pulp.png",
+            "name": "Logs",
+            "description": "Mashed wood fibers. Can be processed to make paper.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Alchemy",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 30
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "020dda33-8f9e-49fe-93a5-b58062b8a720",
+                    "name": "Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Alchemy",
+                        "value": 30
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a2747fd8-70da-48c9-a54c-41914975d1b3",
+                        "name": "Logs",
+                        "amount": 1
+                    }
+                ]
+            }
+        }
+    }
+}

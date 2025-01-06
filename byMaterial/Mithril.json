@@ -1,0 +1,805 @@
+{
+    "meta": {
+        "count": 17,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "b425a95b-1a06-43e7-b122-03e7698a3f6f": {
+            "id": "b425a95b-1a06-43e7-b122-03e7698a3f6f",
+            "imageSrc": "mithril-2h-axe.png",
+            "name": "Mithril Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 27
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 34
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 30
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 837
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "b425a95b-1a06-43e7-b122-03e7698a3f6f",
+                    "name": "Mithril Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 63
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "1be372ea-ae14-4431-9f6c-1e6b1dd7005b": {
+            "id": "1be372ea-ae14-4431-9f6c-1e6b1dd7005b",
+            "imageSrc": "mithril-2h-sword.png",
+            "name": "Mithril Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 31
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 31
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 30
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 837
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "1be372ea-ae14-4431-9f6c-1e6b1dd7005b",
+                    "name": "Mithril Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 63
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "6675e06b-a113-4ce7-86fb-a3ab80a57a15": {
+            "id": "6675e06b-a113-4ce7-86fb-a3ab80a57a15",
+            "imageSrc": "mithril-axe.png",
+            "name": "Mithril Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 20
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 23
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 30
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 837
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "6675e06b-a113-4ce7-86fb-a3ab80a57a15",
+                    "name": "Mithril Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 59
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "2dec4e72-2698-4982-b59f-fd214caccbc6": {
+            "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+            "imageSrc": "mithril-bar.png",
+            "name": "Mithril Ore",
+            "description": "A shimmering bar of mithril, lightweight and durable. Favored in the crafting of elven artifacts.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 134
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                    "name": "Mithril Ore",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 4
+                    },
+                    {
+                        "id": "87027736-6480-426e-bc09-8384364a3452",
+                        "name": "Mithril Ore",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "bc01f4ed-8d0a-496e-99d0-1d0308b9f6d2": {
+            "id": "bc01f4ed-8d0a-496e-99d0-1d0308b9f6d2",
+            "imageSrc": "mithril-boots.png",
+            "name": "Mithril Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 23
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 30
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 502
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "bc01f4ed-8d0a-496e-99d0-1d0308b9f6d2",
+                    "name": "Mithril Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 54
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "69c71f88-df89-458f-ad3b-ba99a1b9fd91": {
+            "id": "69c71f88-df89-458f-ad3b-ba99a1b9fd91",
+            "imageSrc": "mithril-bow.png",
+            "name": "Glowbark Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 31
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 31
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 30
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 707
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "69c71f88-df89-458f-ad3b-ba99a1b9fd91",
+                    "name": "Glowbark Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 63
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "330ffa29-d948-47cf-a647-b528f2d68ae7",
+                        "name": "Glowbark Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "f3b4c2b1-4c9b-46c4-927e-54dffddeb24b": {
+            "id": "f3b4c2b1-4c9b-46c4-927e-54dffddeb24b",
+            "imageSrc": "mithril-chest.png",
+            "name": "Mithril Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 44
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 30
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 837
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f3b4c2b1-4c9b-46c4-927e-54dffddeb24b",
+                    "name": "Mithril Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 67
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "951e53a9-4d54-4fd5-8dea-b25e8cddf86d": {
+            "id": "951e53a9-4d54-4fd5-8dea-b25e8cddf86d",
+            "imageSrc": "mithril-gloves.png",
+            "name": "Mithril Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 18
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 30
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 502
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "951e53a9-4d54-4fd5-8dea-b25e8cddf86d",
+                    "name": "Mithril Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 55
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "0e3e7e22-a988-4816-a194-90cb695ed7c3": {
+            "id": "0e3e7e22-a988-4816-a194-90cb695ed7c3",
+            "imageSrc": "mithril-helmet.png",
+            "name": "Mithril Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 13
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 30
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 502
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "0e3e7e22-a988-4816-a194-90cb695ed7c3",
+                    "name": "Mithril Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 56
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "ffc85fa0-919a-486e-a156-524e8db146dc": {
+            "id": "ffc85fa0-919a-486e-a156-524e8db146dc",
+            "imageSrc": "mithril-katana.png",
+            "name": "Mithril Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 29
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 32
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 30
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 837
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "ffc85fa0-919a-486e-a156-524e8db146dc",
+                    "name": "Mithril Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 64
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "f9cf9a2b-fc2f-4c8e-8533-1ccc9c4503b4": {
+            "id": "f9cf9a2b-fc2f-4c8e-8533-1ccc9c4503b4",
+            "imageSrc": "mithril-leggings.png",
+            "name": "Mithril Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 22
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 30
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 670
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f9cf9a2b-fc2f-4c8e-8533-1ccc9c4503b4",
+                    "name": "Mithril Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 65
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "b3411b33-59f6-4443-a70c-6576b6ec74ec": {
+            "id": "b3411b33-59f6-4443-a70c-6576b6ec74ec",
+            "imageSrc": "mithril-nugget.png",
+            "name": "Mithril Nugget",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 134
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "87027736-6480-426e-bc09-8384364a3452": {
+            "id": "87027736-6480-426e-bc09-8384364a3452",
+            "imageSrc": "mithril-ore.png",
+            "name": "Mithril Ore",
+            "description": "A rare, silver-like metal known for its strength and lightweight properties. Found deep within mountain cores.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 134
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 60
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "f30bc18f-e8a0-439f-91f9-cc5e867f07b5": {
+            "id": "f30bc18f-e8a0-439f-91f9-cc5e867f07b5",
+            "imageSrc": "mithril-shield.png",
+            "name": "Mithril Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 22
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 30
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 670
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f30bc18f-e8a0-439f-91f9-cc5e867f07b5",
+                    "name": "Mithril Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 64
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "416ba465-036b-4ccc-9bcf-e19283468cb4": {
+            "id": "416ba465-036b-4ccc-9bcf-e19283468cb4",
+            "imageSrc": "mithril-spear.png",
+            "name": "Mithril Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 29
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 32
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 30
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 707
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "416ba465-036b-4ccc-9bcf-e19283468cb4",
+                    "name": "Mithril Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 63
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "330ffa29-d948-47cf-a647-b528f2d68ae7",
+                        "name": "Glowbark Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "48a368ac-9b2a-44ae-8d98-5e90d079aab2": {
+            "id": "48a368ac-9b2a-44ae-8d98-5e90d079aab2",
+            "imageSrc": "mithril-staff.png",
+            "name": "Glowbark Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 31
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 31
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 30
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 707
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "48a368ac-9b2a-44ae-8d98-5e90d079aab2",
+                    "name": "Glowbark Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 63
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "330ffa29-d948-47cf-a647-b528f2d68ae7",
+                        "name": "Glowbark Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "dc684813-916c-4b6d-8a71-ae2b91c45100": {
+            "id": "dc684813-916c-4b6d-8a71-ae2b91c45100",
+            "imageSrc": "mithril-sword.png",
+            "name": "Mithril Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 22
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 22
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 30
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Mithril",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 502
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "dc684813-916c-4b6d-8a71-ae2b91c45100",
+                    "name": "Mithril Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 55
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "2dec4e72-2698-4982-b59f-fd214caccbc6",
+                        "name": "Mithril Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        }
+    }
+}

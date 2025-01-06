@@ -1,0 +1,805 @@
+{
+    "meta": {
+        "count": 17,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "97e23cdf-ac00-4194-86fe-bd127777dd4e": {
+            "id": "97e23cdf-ac00-4194-86fe-bd127777dd4e",
+            "imageSrc": "adamantite-2h-axe.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 38
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 48
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 50
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1168
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "97e23cdf-ac00-4194-86fe-bd127777dd4e",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 83
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "de47392c-cbe2-4c09-83f2-33da6091a367": {
+            "id": "de47392c-cbe2-4c09-83f2-33da6091a367",
+            "imageSrc": "adamantite-2h-sword.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 44
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 44
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 50
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1168
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "de47392c-cbe2-4c09-83f2-33da6091a367",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 83
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "f31cc585-2ebb-4a9d-8251-38651fb281ab": {
+            "id": "f31cc585-2ebb-4a9d-8251-38651fb281ab",
+            "imageSrc": "adamantite-axe.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 30
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 33
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 50
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1168
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f31cc585-2ebb-4a9d-8251-38651fb281ab",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 79
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "e261e59b-a681-413f-97a3-eb176a206219": {
+            "id": "e261e59b-a681-413f-97a3-eb176a206219",
+            "imageSrc": "adamantite-bar.png",
+            "name": "Coal",
+            "description": "This vibrant green bar holds incredible resistance. Often sought after for the toughest of armors.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 187
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                    "name": "Coal",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 70
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a8b371c8-d26b-4abe-93bc-81a7ef618150",
+                        "name": "Adamantite Ore",
+                        "amount": 1
+                    },
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 6
+                    }
+                ]
+            }
+        },
+        "f5c1a467-3989-42c2-845b-041b575c0280": {
+            "id": "f5c1a467-3989-42c2-845b-041b575c0280",
+            "imageSrc": "adamantite-boots.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 32
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 50
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 701
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f5c1a467-3989-42c2-845b-041b575c0280",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 74
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "4bf6e644-eda2-4fe9-aa24-42faa045d95f": {
+            "id": "4bf6e644-eda2-4fe9-aa24-42faa045d95f",
+            "imageSrc": "adamantite-bow.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 44
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 44
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 50
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1010
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "4bf6e644-eda2-4fe9-aa24-42faa045d95f",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 83
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "9806e87c-a5ad-4735-9c33-eb16852d8d5a",
+                        "name": "Mystwood Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "6609cbdc-bf0e-4615-9fb0-3e3fc9d77124": {
+            "id": "6609cbdc-bf0e-4615-9fb0-3e3fc9d77124",
+            "imageSrc": "adamantite-chest.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 63
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 50
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1168
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "6609cbdc-bf0e-4615-9fb0-3e3fc9d77124",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 87
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "61c1ae54-ee56-4b04-aad2-89b6d4597efb": {
+            "id": "61c1ae54-ee56-4b04-aad2-89b6d4597efb",
+            "imageSrc": "adamantite-gloves.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 26
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 50
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 701
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "61c1ae54-ee56-4b04-aad2-89b6d4597efb",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "a1750a20-8053-490a-acca-7f91e27d1dec": {
+            "id": "a1750a20-8053-490a-acca-7f91e27d1dec",
+            "imageSrc": "adamantite-helmet.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 19
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 50
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 701
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "a1750a20-8053-490a-acca-7f91e27d1dec",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 76
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "67f578a8-51c5-4173-a58f-a797f9d7d8b7": {
+            "id": "67f578a8-51c5-4173-a58f-a797f9d7d8b7",
+            "imageSrc": "adamantite-katana.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 41
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 46
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 50
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1168
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "67f578a8-51c5-4173-a58f-a797f9d7d8b7",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 84
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "c1b89996-c7c0-4114-96de-e543c4eee722": {
+            "id": "c1b89996-c7c0-4114-96de-e543c4eee722",
+            "imageSrc": "adamantite-leggings.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 31
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 50
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 935
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "c1b89996-c7c0-4114-96de-e543c4eee722",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 85
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "e32a6f17-653c-4af3-a3a1-d0c6674fe4d5": {
+            "id": "e32a6f17-653c-4af3-a3a1-d0c6674fe4d5",
+            "imageSrc": "adamantite-nugget.png",
+            "name": "Adamantite Nugget",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 187
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "a8b371c8-d26b-4abe-93bc-81a7ef618150": {
+            "id": "a8b371c8-d26b-4abe-93bc-81a7ef618150",
+            "imageSrc": "adamantite-ore.png",
+            "name": "Adamantite Ore",
+            "description": "A green-tinted metal, famed for its nearly impenetrable nature.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 187
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 80
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "399b58a1-4f73-468c-b842-ffcfa95d425b": {
+            "id": "399b58a1-4f73-468c-b842-ffcfa95d425b",
+            "imageSrc": "adamantite-shield.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 31
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 50
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 935
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "399b58a1-4f73-468c-b842-ffcfa95d425b",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 84
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "336af0fe-3810-4860-8de4-c49c5db00bec": {
+            "id": "336af0fe-3810-4860-8de4-c49c5db00bec",
+            "imageSrc": "adamantite-spear.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 41
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 45
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 50
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1010
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "336af0fe-3810-4860-8de4-c49c5db00bec",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 83
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "9806e87c-a5ad-4735-9c33-eb16852d8d5a",
+                        "name": "Mystwood Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "8a52dd78-c796-4082-89f9-fc0823a6923a": {
+            "id": "8a52dd78-c796-4082-89f9-fc0823a6923a",
+            "imageSrc": "adamantite-staff.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 44
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 44
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 50
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1010
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "8a52dd78-c796-4082-89f9-fc0823a6923a",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 83
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "9806e87c-a5ad-4735-9c33-eb16852d8d5a",
+                        "name": "Mystwood Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "edcf304d-7b1a-4ce2-b882-d19c49e0aa26": {
+            "id": "edcf304d-7b1a-4ce2-b882-d19c49e0aa26",
+            "imageSrc": "adamantite-sword.png",
+            "name": "Adamantite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 32
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 32
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 50
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Adamantite",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 701
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "edcf304d-7b1a-4ce2-b882-d19c49e0aa26",
+                    "name": "Adamantite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 75
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e261e59b-a681-413f-97a3-eb176a206219",
+                        "name": "Adamantite Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        }
+    }
+}

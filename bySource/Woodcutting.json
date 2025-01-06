@@ -1,0 +1,344 @@
+{
+    "meta": {
+        "count": 12,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "d72e6125-43e1-4cb6-a1c5-5791d1f48aab": {
+            "id": "d72e6125-43e1-4cb6-a1c5-5791d1f48aab",
+            "imageSrc": "bristle-logs.png",
+            "name": "Bristle Logs",
+            "description": "Rough and rugged logs, ideal for durable crafts.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Woodcutting",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 10
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Woodcutting",
+                        "value": 10
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "4b7ba17a-0962-4175-813f-b369286b957d": {
+            "id": "4b7ba17a-0962-4175-813f-b369286b957d",
+            "imageSrc": "dragonwood-logs.png",
+            "name": "Dragonwood Logs",
+            "description": "Rare logs infused with the fiery essence of dragons.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Woodcutting",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 200
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Woodcutting",
+                        "value": 200
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "17312446-d68e-42d4-bcd7-38d98b21149e": {
+            "id": "17312446-d68e-42d4-bcd7-38d98b21149e",
+            "imageSrc": "ebonshade-logs.png",
+            "name": "Ebonshade Logs",
+            "description": "Dark and dense logs, sought after for their strength.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Woodcutting",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 100
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Woodcutting",
+                        "value": 100
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "56761a79-ab8d-4dac-a34d-f76cbc85eefe": {
+            "id": "56761a79-ab8d-4dac-a34d-f76cbc85eefe",
+            "imageSrc": "frostbite-logs.png",
+            "name": "Frostbite Logs",
+            "description": "Cold to the touch, these logs are found in the iciest regions.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Woodcutting",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 170
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Woodcutting",
+                        "value": 170
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "330ffa29-d948-47cf-a647-b528f2d68ae7": {
+            "id": "330ffa29-d948-47cf-a647-b528f2d68ae7",
+            "imageSrc": "glowbark-logs.png",
+            "name": "Glowbark Logs",
+            "description": "Luminescent logs that emit a soft glow. Used in mystical crafts.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Woodcutting",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 15
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Woodcutting",
+                        "value": 15
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "b14e85f1-9d59-49db-8d16-b991fa850191": {
+            "id": "b14e85f1-9d59-49db-8d16-b991fa850191",
+            "imageSrc": "goldwillow-logs.png",
+            "name": "Goldwillow Logs",
+            "description": "Golden logs known to bring good fortune.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Woodcutting",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 240
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Woodcutting",
+                        "value": 240
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "7b8786bc-9508-4d5b-856d-a1fb4dfb5db4": {
+            "id": "7b8786bc-9508-4d5b-856d-a1fb4dfb5db4",
+            "imageSrc": "ironbark-logs.png",
+            "name": "Ironbark Logs",
+            "description": "Sturdy logs with a metallic sheen. Nearly as hard as iron.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Woodcutting",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 130
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Woodcutting",
+                        "value": 130
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "a2747fd8-70da-48c9-a54c-41914975d1b3": {
+            "id": "a2747fd8-70da-48c9-a54c-41914975d1b3",
+            "imageSrc": "logs.png",
+            "name": "Logs",
+            "description": "Basic timber, perfect for simple crafting needs.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Woodcutting",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Woodcutting",
+                        "value": 1
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "9806e87c-a5ad-4735-9c33-eb16852d8d5a": {
+            "id": "9806e87c-a5ad-4735-9c33-eb16852d8d5a",
+            "imageSrc": "mystwood-logs.png",
+            "name": "Mystwood Logs",
+            "description": "Enchanted timber known to be favored by wizards.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Woodcutting",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 30
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Woodcutting",
+                        "value": 30
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "7c634ce8-7d20-4036-b5a0-52d378095c23": {
+            "id": "7c634ce8-7d20-4036-b5a0-52d378095c23",
+            "imageSrc": "pineheart-logs.png",
+            "name": "Pineheart Logs",
+            "description": "Aromatic timber, it resonates with nature's spirit.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Woodcutting",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 70
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Woodcutting",
+                        "value": 70
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "ab267de0-de59-48db-849a-6d1d43d8bbf2": {
+            "id": "ab267de0-de59-48db-849a-6d1d43d8bbf2",
+            "imageSrc": "sandrift-logs.png",
+            "name": "Sandrift Logs",
+            "description": "Logs that carry the essence of deserts and dunes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Woodcutting",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 50
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Woodcutting",
+                        "value": 50
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "4cfeb511-e46a-4428-b8ba-4d803e2b8d3f": {
+            "id": "4cfeb511-e46a-4428-b8ba-4d803e2b8d3f",
+            "imageSrc": "shadowoak-logs.png",
+            "name": "Shadowoak Logs",
+            "description": "Ancient timber that holds the secrets of the shadows.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Woodcutting",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 300
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Woodcutting",
+                        "value": 300
+                    }
+                }
+            ],
+            "recipe": null
+        }
+    }
+}

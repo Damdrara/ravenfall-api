@@ -1,0 +1,1745 @@
+{
+    "meta": {
+        "count": 38,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "986a77a4-8145-4558-ab81-850cfa4d65ae": {
+            "id": "986a77a4-8145-4558-ab81-850cfa4d65ae",
+            "imageSrc": "apple-pie.png",
+            "name": "Butter",
+            "description": "A warm slice of home. Flaky crust with sweet filling.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 462
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "986a77a4-8145-4558-ab81-850cfa4d65ae",
+                    "name": "Butter",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 200
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "807632e7-67c8-4ea9-905b-9fd58a9cd7bf",
+                        "name": "Cinnamon",
+                        "amount": 1
+                    },
+                    {
+                        "id": "857c2fda-5117-46c2-a324-e256ac430b6e",
+                        "name": "Apple",
+                        "amount": 1
+                    },
+                    {
+                        "id": "8e2f422e-f32a-43e5-8160-721b9ec1e2f4",
+                        "name": "Sugar",
+                        "amount": 1
+                    },
+                    {
+                        "id": "a79f7af0-3b5e-4c83-984d-aa18a1eefd2f",
+                        "name": "Flour",
+                        "amount": 1
+                    },
+                    {
+                        "id": "e20ff015-141c-44cd-9e01-0fc0389d5d17",
+                        "name": "Butter",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "fc484dd6-0c4e-4d38-a8ef-9f4440eec22f": {
+            "id": "fc484dd6-0c4e-4d38-a8ef-9f4440eec22f",
+            "imageSrc": "bass.png",
+            "name": "Raw Bass",
+            "description": "Flaky and tender, with a slight hint of the sea.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 62
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "fc484dd6-0c4e-4d38-a8ef-9f4440eec22f",
+                    "name": "Raw Bass",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 50
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "105fcffc-9af1-48f4-8298-83fc2a873b6c",
+                        "name": "Raw Bass",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "0456121a-3197-434b-86ce-ac2b2adb46d5": {
+            "id": "0456121a-3197-434b-86ce-ac2b2adb46d5",
+            "imageSrc": "blue-lobster.png",
+            "name": "Raw Blue Lobster",
+            "description": "A delicacy that combines visual appeal with taste.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 275
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "0456121a-3197-434b-86ce-ac2b2adb46d5",
+                    "name": "Raw Blue Lobster",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 220
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "fadcf278-790c-41f3-b931-c9218fd70ead",
+                        "name": "Raw Blue Lobster",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "38e81494-a3e7-444d-9ab8-c1ae3ac2bcf5": {
+            "id": "38e81494-a3e7-444d-9ab8-c1ae3ac2bcf5",
+            "imageSrc": "bread.png",
+            "name": "Water",
+            "description": "Baked daily. Crunchy crust with soft center.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 51
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "38e81494-a3e7-444d-9ab8-c1ae3ac2bcf5",
+                    "name": "Water",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 30
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a79f7af0-3b5e-4c83-984d-aa18a1eefd2f",
+                        "name": "Flour",
+                        "amount": 1
+                    },
+                    {
+                        "id": "7830181b-58e1-4a8f-b5f9-8d8858f4dba2",
+                        "name": "Salt",
+                        "amount": 1
+                    },
+                    {
+                        "id": "0f2d6191-6a83-480c-a23f-bff2f051236c",
+                        "name": "Yeast",
+                        "amount": 1
+                    },
+                    {
+                        "id": "478240a3-2bac-48f6-8aa9-ec518bd0a447",
+                        "name": "Water",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "e20ff015-141c-44cd-9e01-0fc0389d5d17": {
+            "id": "e20ff015-141c-44cd-9e01-0fc0389d5d17",
+            "imageSrc": "butter.png",
+            "name": "Milk",
+            "description": "Creamy and rich, perfect for adding flavor.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Cooking",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 70
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "e20ff015-141c-44cd-9e01-0fc0389d5d17",
+                    "name": "Milk",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 70
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e65b26dd-b4cf-4d22-8ea0-4014f32ef542",
+                        "name": "Milk",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "035d8372-052d-4d65-af73-2e2920909980": {
+            "id": "035d8372-052d-4d65-af73-2e2920909980",
+            "imageSrc": "cheese.png",
+            "name": "Yeast",
+            "description": "Aged to perfection, adding depth to dishes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Cooking",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 110
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "035d8372-052d-4d65-af73-2e2920909980",
+                    "name": "Yeast",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 110
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "7830181b-58e1-4a8f-b5f9-8d8858f4dba2",
+                        "name": "Salt",
+                        "amount": 1
+                    },
+                    {
+                        "id": "e65b26dd-b4cf-4d22-8ea0-4014f32ef542",
+                        "name": "Milk",
+                        "amount": 1
+                    },
+                    {
+                        "id": "0f2d6191-6a83-480c-a23f-bff2f051236c",
+                        "name": "Yeast",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "8aa7fc85-7a76-4a26-88d7-4327ad9a1c76": {
+            "id": "8aa7fc85-7a76-4a26-88d7-4327ad9a1c76",
+            "imageSrc": "chocolate.png",
+            "name": "Milk",
+            "description": "Melted and molded bliss.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Cooking",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 400
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "8aa7fc85-7a76-4a26-88d7-4327ad9a1c76",
+                    "name": "Milk",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 400
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "8e2f422e-f32a-43e5-8160-721b9ec1e2f4",
+                        "name": "Sugar",
+                        "amount": 1
+                    },
+                    {
+                        "id": "c6dc3550-a5e0-4eae-8347-3c9e945b1216",
+                        "name": "Cacao",
+                        "amount": 1
+                    },
+                    {
+                        "id": "e65b26dd-b4cf-4d22-8ea0-4014f32ef542",
+                        "name": "Milk",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "37cbd60a-8517-4c32-b26a-4727e875e4ed": {
+            "id": "37cbd60a-8517-4c32-b26a-4727e875e4ed",
+            "imageSrc": "chocolate-chip-cookies.png",
+            "name": "Chocolate",
+            "description": "Sweet bites filled with gooey chocolate.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 725
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "37cbd60a-8517-4c32-b26a-4727e875e4ed",
+                    "name": "Chocolate",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 450
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "8e2f422e-f32a-43e5-8160-721b9ec1e2f4",
+                        "name": "Sugar",
+                        "amount": 1
+                    },
+                    {
+                        "id": "e20ff015-141c-44cd-9e01-0fc0389d5d17",
+                        "name": "Butter",
+                        "amount": 1
+                    },
+                    {
+                        "id": "a79f7af0-3b5e-4c83-984d-aa18a1eefd2f",
+                        "name": "Flour",
+                        "amount": 1
+                    },
+                    {
+                        "id": "8aa7fc85-7a76-4a26-88d7-4327ad9a1c76",
+                        "name": "Chocolate",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "6c33c7e9-ae28-4eac-b522-8c187448ca46": {
+            "id": "6c33c7e9-ae28-4eac-b522-8c187448ca46",
+            "imageSrc": "cooked-chicken-leg.png",
+            "name": "Raw Chicken Leg",
+            "description": "Crisp on the outside, tender within.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 175
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "6c33c7e9-ae28-4eac-b522-8c187448ca46",
+                    "name": "Raw Chicken Leg",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 140
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "5278ad56-18fa-47f0-bc74-f4905df05dd6",
+                        "name": "Raw Chicken Leg",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "82ea8562-25fa-4eec-b0eb-076025bd23df": {
+            "id": "82ea8562-25fa-4eec-b0eb-076025bd23df",
+            "imageSrc": "crab.png",
+            "name": "Raw Crab",
+            "description": "Steamed to bring out the sweetness in its flesh.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 162
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "82ea8562-25fa-4eec-b0eb-076025bd23df",
+                    "name": "Raw Crab",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 130
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ae8d63f-8a66-43e9-b9f6-bf9ba405e294",
+                        "name": "Raw Crab",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "a79f7af0-3b5e-4c83-984d-aa18a1eefd2f": {
+            "id": "a79f7af0-3b5e-4c83-984d-aa18a1eefd2f",
+            "imageSrc": "flour.png",
+            "name": "Wheat",
+            "description": "Ground wheat, essential for baking and cooking.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Cooking",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 10
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "a79f7af0-3b5e-4c83-984d-aa18a1eefd2f",
+                    "name": "Wheat",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 10
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "57673856-30ff-479d-a43e-be693953a35a",
+                        "name": "Wheat",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "a316d9fd-a873-414d-9f89-0ce192e23e14": {
+            "id": "a316d9fd-a873-414d-9f89-0ce192e23e14",
+            "imageSrc": null,
+            "name": "Gold Nugget",
+            "description": "An exquisite ingredient for elite dishes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Cooking",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 850
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "a316d9fd-a873-414d-9f89-0ce192e23e14",
+                    "name": "Gold Nugget",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 850
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "fee5e07e-4397-44a9-9e3a-ed0465ce29fc",
+                        "name": "Gold Nugget",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "bc2d3783-86cb-4166-8aea-d86f34c836dd": {
+            "id": "bc2d3783-86cb-4166-8aea-d86f34c836dd",
+            "imageSrc": "grilled-cheese.png",
+            "name": "Butter",
+            "description": "A classic comfort dish, this grilled cheese sandwich oozes with melted cheese and is complemented by slices of savory ham. The bread, crisped to perfection with a buttery exterior, offers a delightful crunch with every bite.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 401
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "bc2d3783-86cb-4166-8aea-d86f34c836dd",
+                    "name": "Butter",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 150
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "38e81494-a3e7-444d-9ab8-c1ae3ac2bcf5",
+                        "name": "Bread",
+                        "amount": 1
+                    },
+                    {
+                        "id": "0ad160e0-33bf-43ad-8b95-7e73ef860438",
+                        "name": "Ham",
+                        "amount": 1
+                    },
+                    {
+                        "id": "035d8372-052d-4d65-af73-2e2920909980",
+                        "name": "Cheese",
+                        "amount": 1
+                    },
+                    {
+                        "id": "e20ff015-141c-44cd-9e01-0fc0389d5d17",
+                        "name": "Butter",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "0ad160e0-33bf-43ad-8b95-7e73ef860438": {
+            "id": "0ad160e0-33bf-43ad-8b95-7e73ef860438",
+            "imageSrc": "ham.png",
+            "name": "Raw Pork",
+            "description": "Salty and savory, cured to perfection.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Cooking",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 90
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "0ad160e0-33bf-43ad-8b95-7e73ef860438",
+                    "name": "Raw Pork",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 90
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "46be70f5-6618-4e06-b96f-87e32e0752a8",
+                        "name": "Black Pepper",
+                        "amount": 1
+                    },
+                    {
+                        "id": "7830181b-58e1-4a8f-b5f9-8d8858f4dba2",
+                        "name": "Salt",
+                        "amount": 1
+                    },
+                    {
+                        "id": "23f44b0e-4774-4a10-8323-c31de2e59baa",
+                        "name": "Raw Pork",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "681d4fb6-2944-4214-ba0e-cec5cafe1909": {
+            "id": "681d4fb6-2944-4214-ba0e-cec5cafe1909",
+            "imageSrc": "ham-sandwich.png",
+            "name": "Bread",
+            "description": "Layered with ham and fresh vegetables.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 263
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "681d4fb6-2944-4214-ba0e-cec5cafe1909",
+                    "name": "Bread",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 60
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ad160e0-33bf-43ad-8b95-7e73ef860438",
+                        "name": "Ham",
+                        "amount": 1
+                    },
+                    {
+                        "id": "e20ff015-141c-44cd-9e01-0fc0389d5d17",
+                        "name": "Butter",
+                        "amount": 1
+                    },
+                    {
+                        "id": "38e81494-a3e7-444d-9ab8-c1ae3ac2bcf5",
+                        "name": "Bread",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "611da176-508d-4e70-a6bd-33204b45240f": {
+            "id": "611da176-508d-4e70-a6bd-33204b45240f",
+            "imageSrc": null,
+            "name": "Milk",
+            "description": "A warm and comforting drink.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 650
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "611da176-508d-4e70-a6bd-33204b45240f",
+                    "name": "Milk",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 420
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "8aa7fc85-7a76-4a26-88d7-4327ad9a1c76",
+                        "name": "Chocolate",
+                        "amount": 1
+                    },
+                    {
+                        "id": "e65b26dd-b4cf-4d22-8ea0-4014f32ef542",
+                        "name": "Milk",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "1fecafd3-a5b5-4f81-910e-e643f857542b": {
+            "id": "1fecafd3-a5b5-4f81-910e-e643f857542b",
+            "imageSrc": "kraken.png",
+            "name": "Raw Kraken",
+            "description": "Legends speak of its taste, as vast as its tales.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 875
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "1fecafd3-a5b5-4f81-910e-e643f857542b",
+                    "name": "Raw Kraken",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 700
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "82b32e90-a525-46ce-93d4-f557b275fa84",
+                        "name": "Raw Kraken",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "7caba4f3-acce-48f2-a959-1717624c73eb": {
+            "id": "7caba4f3-acce-48f2-a959-1717624c73eb",
+            "imageSrc": "leviathans-royal-stew.png",
+            "name": "Butter",
+            "description": "This is a hearty stew that combines the tender meat of the Leviathan with a variety of other ingredients to create a flavorful dish worthy of its namesake.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 6795
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "7caba4f3-acce-48f2-a959-1717624c73eb",
+                    "name": "Butter",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 900
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73b910a0-9630-485a-97e1-9a59518a718c",
+                        "name": "Mushroom",
+                        "amount": 1
+                    },
+                    {
+                        "id": "a79f7af0-3b5e-4c83-984d-aa18a1eefd2f",
+                        "name": "Flour",
+                        "amount": 1
+                    },
+                    {
+                        "id": "374a78b8-0bfb-4975-85d3-47f6db0c1e87",
+                        "name": "Roast Beef",
+                        "amount": 1
+                    },
+                    {
+                        "id": "b373c5b0-0c00-4ea8-a8f3-b322a0f140ea",
+                        "name": "Raw Leviathan",
+                        "amount": 1
+                    },
+                    {
+                        "id": "c46e9bf4-4615-4bda-a1de-c8cd114b1114",
+                        "name": "Red Wine",
+                        "amount": 1
+                    },
+                    {
+                        "id": "478240a3-2bac-48f6-8aa9-ec518bd0a447",
+                        "name": "Water",
+                        "amount": 1
+                    },
+                    {
+                        "id": "098abc6a-dffd-4c40-9c38-a2e9030fc089",
+                        "name": "Tomato",
+                        "amount": 1
+                    },
+                    {
+                        "id": "94a5e896-8713-4d2d-a7be-313a6c8ebc5a",
+                        "name": "Spice Mix",
+                        "amount": 1
+                    },
+                    {
+                        "id": "f0b52c90-088c-4aa9-baa9-512f0c272790",
+                        "name": "Onion",
+                        "amount": 1
+                    },
+                    {
+                        "id": "e20ff015-141c-44cd-9e01-0fc0389d5d17",
+                        "name": "Butter",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "e9ae520f-0bad-45bb-9e4c-d81317d9479f": {
+            "id": "e9ae520f-0bad-45bb-9e4c-d81317d9479f",
+            "imageSrc": "lobster.png",
+            "name": "Raw Lobster",
+            "description": "Red shell on the outside, tender meat on the inside.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 212
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "e9ae520f-0bad-45bb-9e4c-d81317d9479f",
+                    "name": "Raw Lobster",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 170
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "3f92f043-08ca-4987-ab93-5eb28d88ba33",
+                        "name": "Raw Lobster",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "dba2a262-ffdc-4649-8091-ad64da742be9": {
+            "id": "dba2a262-ffdc-4649-8091-ad64da742be9",
+            "imageSrc": "manta-ray.png",
+            "name": "Raw Manta Ray",
+            "description": "Unique and flavorful, a treat from the deep.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 625
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "dba2a262-ffdc-4649-8091-ad64da742be9",
+                    "name": "Raw Manta Ray",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 500
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "44d491d9-d019-4188-9739-f632560691e3",
+                        "name": "Raw Manta Ray",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "a4ee5035-5bce-4719-afaa-56b631f34f00": {
+            "id": "a4ee5035-5bce-4719-afaa-56b631f34f00",
+            "imageSrc": "octopus.png",
+            "name": "Raw Octopus",
+            "description": "Tenderized to perfection, a dish of exquisite taste.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 525
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "a4ee5035-5bce-4719-afaa-56b631f34f00",
+                    "name": "Raw Octopus",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 420
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "b93b76a5-c1e9-4f84-9add-c770c011b2ff",
+                        "name": "Raw Octopus",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "d737d49f-f752-4538-bf6a-aea29c33ffa6": {
+            "id": "d737d49f-f752-4538-bf6a-aea29c33ffa6",
+            "imageSrc": "perch.png",
+            "name": "Raw Perch",
+            "description": "Seared lightly, maintaining its juicy core.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 87
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "d737d49f-f752-4538-bf6a-aea29c33ffa6",
+                    "name": "Raw Perch",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 70
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a55fa318-38fc-4969-804d-f842eb7ccfbf",
+                        "name": "Raw Perch",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "a32ff0f8-8d5b-40ae-9a8b-b89e0527b666": {
+            "id": "a32ff0f8-8d5b-40ae-9a8b-b89e0527b666",
+            "imageSrc": "poseidons-guardian-feast.png",
+            "name": "Roasted Chicken",
+            "description": "A luxurious dish that showcases the divine nature of Poseidon's Guardian. It involves a series of preparations that results in a meal fit for a deity.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3211
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "a32ff0f8-8d5b-40ae-9a8b-b89e0527b666",
+                    "name": "Roasted Chicken",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 999
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "10119ad9-e3fd-4cf6-bde4-15dc8ef93695",
+                        "name": "Eggs",
+                        "amount": 1
+                    },
+                    {
+                        "id": "94a5e896-8713-4d2d-a7be-313a6c8ebc5a",
+                        "name": "Spice Mix",
+                        "amount": 1
+                    },
+                    {
+                        "id": "098abc6a-dffd-4c40-9c38-a2e9030fc089",
+                        "name": "Tomato",
+                        "amount": 1
+                    },
+                    {
+                        "id": "e65b26dd-b4cf-4d22-8ea0-4014f32ef542",
+                        "name": "Milk",
+                        "amount": 1
+                    },
+                    {
+                        "id": "a79f7af0-3b5e-4c83-984d-aa18a1eefd2f",
+                        "name": "Flour",
+                        "amount": 1
+                    },
+                    {
+                        "id": "035d8372-052d-4d65-af73-2e2920909980",
+                        "name": "Cheese",
+                        "amount": 1
+                    },
+                    {
+                        "id": "a316d9fd-a873-414d-9f89-0ce192e23e14",
+                        "name": "Golden Leaf",
+                        "amount": 1
+                    },
+                    {
+                        "id": "f0b52c90-088c-4aa9-baa9-512f0c272790",
+                        "name": "Onion",
+                        "amount": 1
+                    },
+                    {
+                        "id": "9fdf884a-7be0-4c03-954c-8c9720991628",
+                        "name": "Raw Poseidons Guardian",
+                        "amount": 1
+                    },
+                    {
+                        "id": "8f9f0662-ae3c-4582-8574-8a441000876e",
+                        "name": "Roasted Chicken",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "4dd7612f-d7f7-4fb9-b2c5-a6e875cb659f": {
+            "id": "4dd7612f-d7f7-4fb9-b2c5-a6e875cb659f",
+            "imageSrc": "prings.png",
+            "name": "Salt",
+            "description": "A crunchy snack, perfect for munching.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 163
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "4dd7612f-d7f7-4fb9-b2c5-a6e875cb659f",
+                    "name": "Salt",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 350
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1c3889c3-d36d-4ca5-a473-1e676bac1895",
+                        "name": "Potato",
+                        "amount": 1
+                    },
+                    {
+                        "id": "46be70f5-6618-4e06-b96f-87e32e0752a8",
+                        "name": "Black Pepper",
+                        "amount": 1
+                    },
+                    {
+                        "id": "a79f7af0-3b5e-4c83-984d-aa18a1eefd2f",
+                        "name": "Flour",
+                        "amount": 1
+                    },
+                    {
+                        "id": "7830181b-58e1-4a8f-b5f9-8d8858f4dba2",
+                        "name": "Salt",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "88fb2612-0cca-4a6f-9a94-0e70135dbd6f": {
+            "id": "88fb2612-0cca-4a6f-9a94-0e70135dbd6f",
+            "imageSrc": "puffer-fish.png",
+            "name": "Raw Puffer Fish",
+            "description": "Skillfully prepared to ensure every bite is safe and delectable.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 437
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "88fb2612-0cca-4a6f-9a94-0e70135dbd6f",
+                    "name": "Raw Puffer Fish",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 350
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "bf966b33-e40f-47bc-88d8-a517d47a43ae",
+                        "name": "Raw Puffer Fish",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "5278ad56-18fa-47f0-bc74-f4905df05dd6": {
+            "id": "5278ad56-18fa-47f0-bc74-f4905df05dd6",
+            "imageSrc": "raw-chicken-leg.png",
+            "name": "Raw Chicken",
+            "description": "Uncooked poultry leg, ready to be fried.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 140
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "5278ad56-18fa-47f0-bc74-f4905df05dd6",
+                    "name": "Raw Chicken",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 140
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a7edbd77-d5d2-4961-847e-615d7ef425f2",
+                        "name": "Raw Chicken",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "1f555caa-49aa-4ca8-a70b-96c31ce8bad7": {
+            "id": "1f555caa-49aa-4ca8-a70b-96c31ce8bad7",
+            "imageSrc": "red-sea-bass.png",
+            "name": "Raw Red Sea Bass",
+            "description": "Grilled to perfection, highlighting its natural flavors.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 25
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "1f555caa-49aa-4ca8-a70b-96c31ce8bad7",
+                    "name": "Raw Red Sea Bass",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 20
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "63e5d82a-5281-4e3f-bfd9-14ef21b01ba7",
+                        "name": "Raw Red Sea Bass",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "c46e9bf4-4615-4bda-a1de-c8cd114b1114": {
+            "id": "c46e9bf4-4615-4bda-a1de-c8cd114b1114",
+            "imageSrc": "red-wine.png",
+            "name": "Grapes",
+            "description": "Aged gracefully, pairs well with hearty dishes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Potion",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 4000
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "c46e9bf4-4615-4bda-a1de-c8cd114b1114",
+                    "name": "Grapes",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 500
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "7497c810-b8b5-4566-afeb-71dd2a8e4d52",
+                        "name": "Grapes",
+                        "amount": 10
+                    }
+                ]
+            }
+        },
+        "374a78b8-0bfb-4975-85d3-47f6db0c1e87": {
+            "id": "374a78b8-0bfb-4975-85d3-47f6db0c1e87",
+            "imageSrc": "roast-beef.png",
+            "name": "Raw Meat",
+            "description": "Grilled with care, boasting a robust flavor.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 300
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "374a78b8-0bfb-4975-85d3-47f6db0c1e87",
+                    "name": "Raw Meat",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 180
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "eadedcdd-7df4-4b02-8de7-65931f26586c",
+                        "name": "Raw Meat",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "8f9f0662-ae3c-4582-8574-8a441000876e": {
+            "id": "8f9f0662-ae3c-4582-8574-8a441000876e",
+            "imageSrc": "roasted-chicken.png",
+            "name": "Raw Chicken",
+            "description": "Roasted to a golden brown. Juicy and flavorful.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 200
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "8f9f0662-ae3c-4582-8574-8a441000876e",
+                    "name": "Raw Chicken",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a7edbd77-d5d2-4961-847e-615d7ef425f2",
+                        "name": "Raw Chicken",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "afbf219f-3053-407b-8179-9bac204f5bb3": {
+            "id": "afbf219f-3053-407b-8179-9bac204f5bb3",
+            "imageSrc": "roasted-pork.png",
+            "name": "Raw Pork",
+            "description": "Tender and savory, perfect with applesauce.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 250
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "afbf219f-3053-407b-8179-9bac204f5bb3",
+                    "name": "Raw Pork",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 80
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "23f44b0e-4774-4a10-8323-c31de2e59baa",
+                        "name": "Raw Pork",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "5f9c6173-13c1-4780-8bf8-915e01f8c5f6": {
+            "id": "5f9c6173-13c1-4780-8bf8-915e01f8c5f6",
+            "imageSrc": "salmon.png",
+            "name": "Raw Salmon",
+            "description": "Rich in omega-3, cooked to enhance its natural richness.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 125
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "5f9c6173-13c1-4780-8bf8-915e01f8c5f6",
+                    "name": "Raw Salmon",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "019eb12a-ffdd-4bfa-a520-e2cd12bce744",
+                        "name": "Raw Salmon",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "3ab1010d-3b08-4f3c-b2c1-737fb1ef0bab": {
+            "id": "3ab1010d-3b08-4f3c-b2c1-737fb1ef0bab",
+            "imageSrc": "shrimp.png",
+            "name": "Raw Shrimp",
+            "description": "Turned a delicate pink, succulent and flavorful.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 6
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "3ab1010d-3b08-4f3c-b2c1-737fb1ef0bab",
+                    "name": "Raw Shrimp",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 5
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "9121a8f8-72d5-4967-ab33-5048abb53f23",
+                        "name": "Raw Shrimp",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "40a54242-d023-408f-8fe3-eec7c483d372": {
+            "id": "40a54242-d023-408f-8fe3-eec7c483d372",
+            "imageSrc": "skewers.png",
+            "name": "Spice Mix",
+            "description": "Grilled delights on a stick.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 337
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "40a54242-d023-408f-8fe3-eec7c483d372",
+                    "name": "Spice Mix",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 300
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "eadedcdd-7df4-4b02-8de7-65931f26586c",
+                        "name": "Raw Meat",
+                        "amount": 1
+                    },
+                    {
+                        "id": "94a5e896-8713-4d2d-a7be-313a6c8ebc5a",
+                        "name": "Spice Mix",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "94a5e896-8713-4d2d-a7be-313a6c8ebc5a": {
+            "id": "94a5e896-8713-4d2d-a7be-313a6c8ebc5a",
+            "imageSrc": "spice-mix.png",
+            "name": "Cumin",
+            "description": "A blend of spices, ready to kick up the heat.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Cooking",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 30
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "94a5e896-8713-4d2d-a7be-313a6c8ebc5a",
+                    "name": "Cumin",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 30
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "955d07ed-07ae-4035-b1d0-7a36bdc1db30",
+                        "name": "Coriander",
+                        "amount": 1
+                    },
+                    {
+                        "id": "7830181b-58e1-4a8f-b5f9-8d8858f4dba2",
+                        "name": "Salt",
+                        "amount": 1
+                    },
+                    {
+                        "id": "cfbaf0b4-a993-4020-b4f1-52c8c350b115",
+                        "name": "Turmeric",
+                        "amount": 1
+                    },
+                    {
+                        "id": "46be70f5-6618-4e06-b96f-87e32e0752a8",
+                        "name": "Black Pepper",
+                        "amount": 1
+                    },
+                    {
+                        "id": "637453bd-1873-4fe5-a7cb-92f6edb78c3b",
+                        "name": "Paprika",
+                        "amount": 1
+                    },
+                    {
+                        "id": "1cd4dea4-4d7c-492b-bf38-b79de96ceb02",
+                        "name": "Cumin",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "44e70693-1f4b-4ec4-8616-82f199e5820b": {
+            "id": "44e70693-1f4b-4ec4-8616-82f199e5820b",
+            "imageSrc": "sprat.png",
+            "name": "Raw Sprat",
+            "description": "Lightly fried with a golden crust.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "44e70693-1f4b-4ec4-8616-82f199e5820b",
+                    "name": "Raw Sprat",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 1
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "1e15a407-0004-468e-a449-bdb08a86055c",
+                        "name": "Raw Sprat",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "64dcad87-ff1d-4af2-ac2c-e0b714c35257": {
+            "id": "64dcad87-ff1d-4af2-ac2c-e0b714c35257",
+            "imageSrc": "steak.png",
+            "name": "Black Pepper",
+            "description": "Succulent and perfectly seared.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 445
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "64dcad87-ff1d-4af2-ac2c-e0b714c35257",
+                    "name": "Black Pepper",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 250
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "7830181b-58e1-4a8f-b5f9-8d8858f4dba2",
+                        "name": "Salt",
+                        "amount": 1
+                    },
+                    {
+                        "id": "eadedcdd-7df4-4b02-8de7-65931f26586c",
+                        "name": "Raw Meat",
+                        "amount": 1
+                    },
+                    {
+                        "id": "46be70f5-6618-4e06-b96f-87e32e0752a8",
+                        "name": "Black Pepper",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "9709713d-f176-4d44-b0f8-0c2f26ccb447": {
+            "id": "9709713d-f176-4d44-b0f8-0c2f26ccb447",
+            "imageSrc": "swordfish.png",
+            "name": "Raw Swordfish",
+            "description": "Thick steaks grilled to seal in the moisture.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Food",
+            "type": "Food",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 350
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "9709713d-f176-4d44-b0f8-0c2f26ccb447",
+                    "name": "Raw Swordfish",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Cooking",
+                        "value": 280
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "b9850898-bd73-4c59-b56d-59a673e7c21e",
+                        "name": "Raw Swordfish",
+                        "amount": 1
+                    }
+                ]
+            }
+        }
+    }
+}

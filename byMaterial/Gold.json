@@ -1,0 +1,184 @@
+{
+    "meta": {
+        "count": 4,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "6f8cb588-e9d1-4f34-a955-eb1d462bcfc4": {
+            "id": "6f8cb588-e9d1-4f34-a955-eb1d462bcfc4",
+            "imageSrc": "gold-amulet.png",
+            "name": "Gold Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 2
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 5
+                },
+                {
+                    "name": "Armor Power",
+                    "value": 2
+                }
+            ],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Amulet",
+            "type": "Amulet",
+            "material": "Gold",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 75
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "6f8cb588-e9d1-4f34-a955-eb1d462bcfc4",
+                    "name": "Gold Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 30
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e4b7449d-1a58-4c43-a8ad-0dd4b8a6b353",
+                        "name": "Gold Bar",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "e4b7449d-1a58-4c43-a8ad-0dd4b8a6b353": {
+            "id": "e4b7449d-1a58-4c43-a8ad-0dd4b8a6b353",
+            "imageSrc": null,
+            "name": "Coal",
+            "description": "This opulent bar of pure gold exudes wealth and prestige. Prized by royalty and artisans alike, it has been a symbol of power and luxury for eons.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Gold",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 30
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "e4b7449d-1a58-4c43-a8ad-0dd4b8a6b353",
+                    "name": "Coal",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 30
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "fee5e07e-4397-44a9-9e3a-ed0465ce29fc",
+                        "name": "Gold Nugget",
+                        "amount": 1
+                    },
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "fee5e07e-4397-44a9-9e3a-ed0465ce29fc": {
+            "id": "fee5e07e-4397-44a9-9e3a-ed0465ce29fc",
+            "imageSrc": "gold-nugget.png",
+            "name": "Gold Nugget",
+            "description": "A small chunk of this precious metal known for its distinct shine and value.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Gold",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 40
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 40
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "c57acd84-32ec-434c-ab2c-e200d47da4a1": {
+            "id": "c57acd84-32ec-434c-ab2c-e200d47da4a1",
+            "imageSrc": "gold-ring.png",
+            "name": "Gold Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 2
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 5
+                },
+                {
+                    "name": "Armor Power",
+                    "value": 2
+                }
+            ],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Ring",
+            "type": "Ring",
+            "material": "Gold",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 75
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "c57acd84-32ec-434c-ab2c-e200d47da4a1",
+                    "name": "Gold Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 30
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e4b7449d-1a58-4c43-a8ad-0dd4b8a6b353",
+                        "name": "Gold Bar",
+                        "amount": 2
+                    }
+                ]
+            }
+        }
+    }
+}

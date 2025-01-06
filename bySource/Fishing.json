@@ -1,0 +1,456 @@
+{
+    "meta": {
+        "count": 16,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "105fcffc-9af1-48f4-8298-83fc2a873b6c": {
+            "id": "105fcffc-9af1-48f4-8298-83fc2a873b6c",
+            "imageSrc": "raw-bass.png",
+            "name": "Raw Bass",
+            "description": "A popular freshwater fish with a mild taste.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 50
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 50
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "fadcf278-790c-41f3-b931-c9218fd70ead": {
+            "id": "fadcf278-790c-41f3-b931-c9218fd70ead",
+            "imageSrc": "raw-blue-lobster.png",
+            "name": "Raw Blue Lobster",
+            "description": "A rare and vibrant variation of lobster.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 220
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 220
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "0ae8d63f-8a66-43e9-b9f6-bf9ba405e294": {
+            "id": "0ae8d63f-8a66-43e9-b9f6-bf9ba405e294",
+            "imageSrc": "raw-crab.png",
+            "name": "Raw Crab",
+            "description": "A crustacean with sharp pincers. Tasty when cooked.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 130
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 130
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "82b32e90-a525-46ce-93d4-f557b275fa84": {
+            "id": "82b32e90-a525-46ce-93d4-f557b275fa84",
+            "imageSrc": "raw-kraken.png",
+            "name": "Raw Kraken",
+            "description": "Mythical sea monster known to pull ships under.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 700
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 700
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "b373c5b0-0c00-4ea8-a8f3-b322a0f140ea": {
+            "id": "b373c5b0-0c00-4ea8-a8f3-b322a0f140ea",
+            "imageSrc": "raw-leviathan.png",
+            "name": "Raw Leviathan",
+            "description": "A gargantuan sea creature spoken of in legends.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 900
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 900
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "3f92f043-08ca-4987-ab93-5eb28d88ba33": {
+            "id": "3f92f043-08ca-4987-ab93-5eb28d88ba33",
+            "imageSrc": "raw-lobster.png",
+            "name": "Raw Lobster",
+            "description": "A sea delicacy with a tough shell but tender meat.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 170
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 170
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "44d491d9-d019-4188-9739-f632560691e3": {
+            "id": "44d491d9-d019-4188-9739-f632560691e3",
+            "imageSrc": "raw-manta-ray.png",
+            "name": "Raw Manta Ray",
+            "description": "Graceful glider of the ocean. Beware its tail.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 500
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 500
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "b93b76a5-c1e9-4f84-9add-c770c011b2ff": {
+            "id": "b93b76a5-c1e9-4f84-9add-c770c011b2ff",
+            "imageSrc": "raw-octopus.png",
+            "name": "Raw Octopus",
+            "description": "Eight-armed creature of the deep. Slippery and smart.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 420
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 420
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "a55fa318-38fc-4969-804d-f842eb7ccfbf": {
+            "id": "a55fa318-38fc-4969-804d-f842eb7ccfbf",
+            "imageSrc": "raw-perch.png",
+            "name": "Raw Perch",
+            "description": "Striped and feisty, a common catch in many lakes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 70
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 70
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "9fdf884a-7be0-4c03-954c-8c9720991628": {
+            "id": "9fdf884a-7be0-4c03-954c-8c9720991628",
+            "imageSrc": "raw-poseidons-guardian.png",
+            "name": "Raw Poseidons Guardian",
+            "description": "Said to be the protector of Poseidon's realm. A rare and majestic catch.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 999
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 999
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "bf966b33-e40f-47bc-88d8-a517d47a43ae": {
+            "id": "bf966b33-e40f-47bc-88d8-a517d47a43ae",
+            "imageSrc": "raw-puffer-fish.png",
+            "name": "Raw Puffer Fish",
+            "description": "Inflates when threatened. Handle with care!",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 350
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 350
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "63e5d82a-5281-4e3f-bfd9-14ef21b01ba7": {
+            "id": "63e5d82a-5281-4e3f-bfd9-14ef21b01ba7",
+            "imageSrc": "raw-red-sea-bass.png",
+            "name": "Raw Red Sea Bass",
+            "description": "A vibrant fish with a strong flavor.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 20
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 20
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "019eb12a-ffdd-4bfa-a520-e2cd12bce744": {
+            "id": "019eb12a-ffdd-4bfa-a520-e2cd12bce744",
+            "imageSrc": "raw-salmon.png",
+            "name": "Raw Salmon",
+            "description": "A strong swimmer known for its rich, pink flesh.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 100
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 100
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "9121a8f8-72d5-4967-ab33-5048abb53f23": {
+            "id": "9121a8f8-72d5-4967-ab33-5048abb53f23",
+            "imageSrc": "raw-shrimp.png",
+            "name": "Raw Shrimp",
+            "description": "Small and pinkish, they're a popular catch.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 5
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 5
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "1e15a407-0004-468e-a449-bdb08a86055c": {
+            "id": "1e15a407-0004-468e-a449-bdb08a86055c",
+            "imageSrc": "raw-sprat.png",
+            "name": "Raw Sprat",
+            "description": "A tiny, silver fish. Great for a quick snack.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 1
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "b9850898-bd73-4c59-b56d-59a673e7c21e": {
+            "id": "b9850898-bd73-4c59-b56d-59a673e7c21e",
+            "imageSrc": "raw-swordfish.png",
+            "name": "Raw Swordfish",
+            "description": "A powerful fish known for its elongated bill.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Fishing",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 280
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Fishing",
+                        "value": 280
+                    }
+                }
+            ],
+            "recipe": null
+        }
+    }
+}

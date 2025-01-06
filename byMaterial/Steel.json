@@ -1,0 +1,777 @@
+{
+    "meta": {
+        "count": 16,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "86823667-5046-4e4b-a6bf-0956c7ede2ab": {
+            "id": "86823667-5046-4e4b-a6bf-0956c7ede2ab",
+            "imageSrc": "steel-2h-axe.png",
+            "name": "Steel Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 19
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 24
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 10
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 312
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "86823667-5046-4e4b-a6bf-0956c7ede2ab",
+                    "name": "Steel Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 28
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "dddf6ee5-1a24-4996-a493-6adb3a59a426": {
+            "id": "dddf6ee5-1a24-4996-a493-6adb3a59a426",
+            "imageSrc": "steel-2h-sword.png",
+            "name": "Steel Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 22
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 22
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 10
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 312
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "dddf6ee5-1a24-4996-a493-6adb3a59a426",
+                    "name": "Steel Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 28
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "486edb0b-4276-4544-933a-7a3073a911db": {
+            "id": "486edb0b-4276-4544-933a-7a3073a911db",
+            "imageSrc": "steel-axe.png",
+            "name": "Steel Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 15
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 16
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 10
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 312
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "486edb0b-4276-4544-933a-7a3073a911db",
+                    "name": "Steel Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 24
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5": {
+            "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+            "imageSrc": "steel-bar.png",
+            "name": "Coal",
+            "description": "A bar of steel, known for its superior strength compared to iron. A common choice for advanced weaponry.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 50
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                    "name": "Coal",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 15
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "20db50e2-8a10-416f-b4d7-3d0139ba8dcc",
+                        "name": "Iron Ore",
+                        "amount": 1
+                    },
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "7e56f5a8-a9a1-469e-b48c-d7318bc92f15": {
+            "id": "7e56f5a8-a9a1-469e-b48c-d7318bc92f15",
+            "imageSrc": "steel-boots.png",
+            "name": "Steel Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 14
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 10
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 187
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "7e56f5a8-a9a1-469e-b48c-d7318bc92f15",
+                    "name": "Steel Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 19
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "75a0091c-6458-4caa-a494-eae6e70004b3": {
+            "id": "75a0091c-6458-4caa-a494-eae6e70004b3",
+            "imageSrc": "steel-bow.png",
+            "name": "Bristle Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 22
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 22
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 10
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 275
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "75a0091c-6458-4caa-a494-eae6e70004b3",
+                    "name": "Bristle Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 28
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "d72e6125-43e1-4cb6-a1c5-5791d1f48aab",
+                        "name": "Bristle Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "2fdbabfb-d922-46a5-9abe-91561fdebdf7": {
+            "id": "2fdbabfb-d922-46a5-9abe-91561fdebdf7",
+            "imageSrc": "steel-chest.png",
+            "name": "Steel Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 31
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 10
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 312
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "2fdbabfb-d922-46a5-9abe-91561fdebdf7",
+                    "name": "Steel Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 32
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "56773aee-3dc2-43e6-bb24-8ecba1adcba7": {
+            "id": "56773aee-3dc2-43e6-bb24-8ecba1adcba7",
+            "imageSrc": "steel-gloves.png",
+            "name": "Steel Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 11
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 10
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 187
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "56773aee-3dc2-43e6-bb24-8ecba1adcba7",
+                    "name": "Steel Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 20
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "ec098043-2e64-4c54-aeba-4c76799b462b": {
+            "id": "ec098043-2e64-4c54-aeba-4c76799b462b",
+            "imageSrc": "steel-helmet.png",
+            "name": "Steel Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 9
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 10
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 187
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "ec098043-2e64-4c54-aeba-4c76799b462b",
+                    "name": "Steel Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 21
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "5e49edd8-9523-498b-8585-13f7e800af47": {
+            "id": "5e49edd8-9523-498b-8585-13f7e800af47",
+            "imageSrc": "steel-katana.png",
+            "name": "Steel Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 20
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 23
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 10
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 312
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "5e49edd8-9523-498b-8585-13f7e800af47",
+                    "name": "Steel Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 29
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "6e87df65-96bb-4c22-be6e-4f38cc57a7db": {
+            "id": "6e87df65-96bb-4c22-be6e-4f38cc57a7db",
+            "imageSrc": "steel-leggings.png",
+            "name": "Steel Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 16
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 10
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 250
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "6e87df65-96bb-4c22-be6e-4f38cc57a7db",
+                    "name": "Steel Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 30
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "ef674846-817e-41b7-b378-85e64d2ccf5d": {
+            "id": "ef674846-817e-41b7-b378-85e64d2ccf5d",
+            "imageSrc": "steel-nugget.png",
+            "name": "Steel Nugget",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 50
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "4d0a5031-8198-4bd7-bccc-a9cb89a6c4ef": {
+            "id": "4d0a5031-8198-4bd7-bccc-a9cb89a6c4ef",
+            "imageSrc": "steel-shield.png",
+            "name": "Steel Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 16
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 10
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 250
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "4d0a5031-8198-4bd7-bccc-a9cb89a6c4ef",
+                    "name": "Steel Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 29
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "00c59efb-69ab-44cb-bf5a-49d8a4cbe757": {
+            "id": "00c59efb-69ab-44cb-bf5a-49d8a4cbe757",
+            "imageSrc": "steel-spear.png",
+            "name": "Steel Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 20
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 22
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 10
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 275
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "00c59efb-69ab-44cb-bf5a-49d8a4cbe757",
+                    "name": "Steel Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 28
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "d72e6125-43e1-4cb6-a1c5-5791d1f48aab",
+                        "name": "Bristle Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "a856b568-b652-41cd-a758-797ffc910b5e": {
+            "id": "a856b568-b652-41cd-a758-797ffc910b5e",
+            "imageSrc": "steel-staff.png",
+            "name": "Bristle Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 22
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 22
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 10
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 275
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "a856b568-b652-41cd-a758-797ffc910b5e",
+                    "name": "Bristle Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 28
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "d72e6125-43e1-4cb6-a1c5-5791d1f48aab",
+                        "name": "Bristle Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "67ee3c04-124e-46f6-ad6a-e1da16663ff2": {
+            "id": "67ee3c04-124e-46f6-ad6a-e1da16663ff2",
+            "imageSrc": "steel-sword.png",
+            "name": "Steel Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 16
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 16
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 10
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Steel",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 187
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "67ee3c04-124e-46f6-ad6a-e1da16663ff2",
+                    "name": "Steel Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 20
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "73ba55c2-51f5-4ceb-9d1e-6d198a3ec0d5",
+                        "name": "Steel Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        }
+    }
+}

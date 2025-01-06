@@ -1,0 +1,540 @@
+{
+    "meta": {
+        "count": 19,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "7a9db623-74d3-4ae7-bdeb-19f8272998d6": {
+            "id": "7a9db623-74d3-4ae7-bdeb-19f8272998d6",
+            "imageSrc": "black-2h-axe.png",
+            "name": "Black 2H Axe",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 24
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 24
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 20
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "6e7ef565-c2ba-4b2e-ab59-42acec92488e": {
+            "id": "6e7ef565-c2ba-4b2e-ab59-42acec92488e",
+            "imageSrc": "black-2h-sword.png",
+            "name": "Black 2H Sword",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 28
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 22
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 20
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1150
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "b6b08b3d-22fe-4b2a-974a-8681efc7f715": {
+            "id": "b6b08b3d-22fe-4b2a-974a-8681efc7f715",
+            "imageSrc": "black-axe.png",
+            "name": "Black Axe",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 18
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 16
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 20
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "85d3dec0-4b6d-4243-8f9c-43b643b71723": {
+            "id": "85d3dec0-4b6d-4243-8f9c-43b643b71723",
+            "imageSrc": "black-boots.png",
+            "name": "Black Boots",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 19
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 20
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 690
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "3336dee3-222f-4ae5-951f-573b2cacabb6": {
+            "id": "3336dee3-222f-4ae5-951f-573b2cacabb6",
+            "imageSrc": "black-bow.png",
+            "name": "Black Bow",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 28
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 22
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 20
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1150
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "d3b03a62-b595-4f06-a847-fa70cf3f7a32": {
+            "id": "d3b03a62-b595-4f06-a847-fa70cf3f7a32",
+            "imageSrc": "black-cat.png",
+            "name": "Black Cat",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Pet",
+            "type": "Pet",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1000
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "572a73da-1fea-4790-94c0-a759119b24b8": {
+            "id": "572a73da-1fea-4790-94c0-a759119b24b8",
+            "imageSrc": "black-chest.png",
+            "name": "Black Chest",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 40
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 20
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2300
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "28653827-3edd-498a-8bb6-1d02583015c2": {
+            "id": "28653827-3edd-498a-8bb6-1d02583015c2",
+            "imageSrc": "black-gloves.png",
+            "name": "Black Gloves",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 16
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 20
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 690
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "fac20934-04a4-49f5-b2a1-32066600c936": {
+            "id": "fac20934-04a4-49f5-b2a1-32066600c936",
+            "imageSrc": "black-helmet.png",
+            "name": "Black Helmet",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 12
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 20
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 420
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "8e6ca004-9a67-41e3-a229-e4a5d9d44311": {
+            "id": "8e6ca004-9a67-41e3-a229-e4a5d9d44311",
+            "imageSrc": "black-katana.png",
+            "name": "Black Katana",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 26
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 23
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 20
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "010d26ef-51cc-4f0e-9736-36f205917958": {
+            "id": "010d26ef-51cc-4f0e-9736-36f205917958",
+            "imageSrc": "black-leggings.png",
+            "name": "Black Leggings",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 21
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 20
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1250
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "46be70f5-6618-4e06-b96f-87e32e0752a8": {
+            "id": "46be70f5-6618-4e06-b96f-87e32e0752a8",
+            "imageSrc": "black-pepper.png",
+            "name": "Black Pepper",
+            "description": "A spicy seasoning that adds kick to dishes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 96
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 25
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "8f7ea795-7e30-4b7d-aa74-267864cf2c1c": {
+            "id": "8f7ea795-7e30-4b7d-aa74-267864cf2c1c",
+            "imageSrc": null,
+            "name": "Black Raven Pet",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Pet",
+            "type": "Pet",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1000
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "60657824-73b1-4ef4-aec0-bca5638b2e06": {
+            "id": "60657824-73b1-4ef4-aec0-bca5638b2e06",
+            "imageSrc": "black-santa-hat.png",
+            "name": "Black Santa Hat",
+            "description": "A festive hat that may or may not have been worn by Santa..",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Cosmetic",
+            "type": "Hat",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "0de64df6-7cb9-4583-9593-eefb1f3325f9": {
+            "id": "0de64df6-7cb9-4583-9593-eefb1f3325f9",
+            "imageSrc": "black-santa-raven.png",
+            "name": "Black Santa Raven",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Pet",
+            "type": "Pet",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1000
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "9202dc4a-722b-4232-8796-3492eeb2da14": {
+            "id": "9202dc4a-722b-4232-8796-3492eeb2da14",
+            "imageSrc": "black-shield.png",
+            "name": "Black Shield",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 21
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 20
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1250
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "079c249f-31fc-4785-bb75-d135906ea2ef": {
+            "id": "079c249f-31fc-4785-bb75-d135906ea2ef",
+            "imageSrc": "black-spear.png",
+            "name": "Black Spear",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 26
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 22
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 20
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "ea885b65-3ce2-4adb-a4c6-59135113edfc": {
+            "id": "ea885b65-3ce2-4adb-a4c6-59135113edfc",
+            "imageSrc": "black-staff.png",
+            "name": "Black Staff",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 28
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 22
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 20
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1150
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "073d078b-13e2-4b9a-8fb4-6401971614e4": {
+            "id": "073d078b-13e2-4b9a-8fb4-6401971614e4",
+            "imageSrc": "black-sword.png",
+            "name": "Black Sword",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 20
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 16
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 20
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 215
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": null
+        }
+    }
+}

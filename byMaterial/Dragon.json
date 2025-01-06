@@ -1,0 +1,919 @@
+{
+    "meta": {
+        "count": 19,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "27c3370c-066f-414c-845a-72939ac76cc0": {
+            "id": "27c3370c-066f-414c-845a-72939ac76cc0",
+            "imageSrc": "dragon-2h-axe.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 73
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 92
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 90
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2250
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "27c3370c-066f-414c-845a-72939ac76cc0",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 133
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "76c62f57-6102-441b-ad17-35f856c35de6": {
+            "id": "76c62f57-6102-441b-ad17-35f856c35de6",
+            "imageSrc": "dragon-2h-sword.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 84
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 84
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 90
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2250
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "76c62f57-6102-441b-ad17-35f856c35de6",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 133
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "09c60c0c-94fa-4efe-953e-d98ddae79f11": {
+            "id": "09c60c0c-94fa-4efe-953e-d98ddae79f11",
+            "imageSrc": "dragon-amulet.png",
+            "name": "Dragon Ore",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 15
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 17
+                },
+                {
+                    "name": "Armor Power",
+                    "value": 15
+                }
+            ],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Amulet",
+            "type": "Amulet",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 543
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "09c60c0c-94fa-4efe-953e-d98ddae79f11",
+                    "name": "Dragon Ore",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6f8cb588-e9d1-4f34-a955-eb1d462bcfc4",
+                        "name": "Gold Amulet",
+                        "amount": 1
+                    },
+                    {
+                        "id": "fa4d89b8-f483-4555-a524-6ed11116ba76",
+                        "name": "Dragon Ore",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "a11269c3-cfa8-49e7-afbe-7fab9685b691": {
+            "id": "a11269c3-cfa8-49e7-afbe-7fab9685b691",
+            "imageSrc": "dragon-axe.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 57
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 64
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 90
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2250
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "a11269c3-cfa8-49e7-afbe-7fab9685b691",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 129
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef": {
+            "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+            "imageSrc": "dragon-bar.png",
+            "name": "Coal",
+            "description": "Forged in dragonfire, this bar has a fiery red glow and is said to contain the spirit of dragons.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 360
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                    "name": "Coal",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 120
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "fa4d89b8-f483-4555-a524-6ed11116ba76",
+                        "name": "Dragon Ore",
+                        "amount": 1
+                    },
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 10
+                    }
+                ]
+            }
+        },
+        "7ee44315-22c5-410a-b46a-be8585eb4963": {
+            "id": "7ee44315-22c5-410a-b46a-be8585eb4963",
+            "imageSrc": "dragon-boots.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 58
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 90
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1350
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "7ee44315-22c5-410a-b46a-be8585eb4963",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 124
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "a7840ef9-a5cb-419a-86ac-57e694e141d0": {
+            "id": "a7840ef9-a5cb-419a-86ac-57e694e141d0",
+            "imageSrc": "dragon-bow.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 84
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 84
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 90
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1975
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "a7840ef9-a5cb-419a-86ac-57e694e141d0",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 133
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "7c634ce8-7d20-4036-b5a0-52d378095c23",
+                        "name": "Pineheart Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "8085b300-67a3-4c08-a72d-705929f20e3d": {
+            "id": "8085b300-67a3-4c08-a72d-705929f20e3d",
+            "imageSrc": "dragon-chest.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 98
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 90
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2250
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "8085b300-67a3-4c08-a72d-705929f20e3d",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 137
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "c1189a34-c14b-42c7-8f4b-8623b2eaa6b4": {
+            "id": "c1189a34-c14b-42c7-8f4b-8623b2eaa6b4",
+            "imageSrc": "dragon-gloves.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 50
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 90
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1350
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "c1189a34-c14b-42c7-8f4b-8623b2eaa6b4",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 125
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "e3a5605c-0824-41d5-9c8b-c04450070167": {
+            "id": "e3a5605c-0824-41d5-9c8b-c04450070167",
+            "imageSrc": "dragon-helmet.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 43
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 90
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1350
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "e3a5605c-0824-41d5-9c8b-c04450070167",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 126
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "67dbf467-07df-4731-9694-1389d07e886f": {
+            "id": "67dbf467-07df-4731-9694-1389d07e886f",
+            "imageSrc": "dragon-katana.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 79
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 89
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 90
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 2250
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "67dbf467-07df-4731-9694-1389d07e886f",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 134
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "8f2a092e-19cc-4dd7-b5ef-f43e1ccb5d8e": {
+            "id": "8f2a092e-19cc-4dd7-b5ef-f43e1ccb5d8e",
+            "imageSrc": "dragon-leggings.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 53
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 90
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1800
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "8f2a092e-19cc-4dd7-b5ef-f43e1ccb5d8e",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 135
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "fa4d89b8-f483-4555-a524-6ed11116ba76": {
+            "id": "fa4d89b8-f483-4555-a524-6ed11116ba76",
+            "imageSrc": "dragon-ore.png",
+            "name": "Dragon Ore",
+            "description": "An incredibly rare ore that is said to contain the power of dragons. Radiates a faint warmth.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 360
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 180
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "7dbc25a1-ebb7-4bde-ad65-5b76e30a7a6a": {
+            "id": "7dbc25a1-ebb7-4bde-ad65-5b76e30a7a6a",
+            "imageSrc": null,
+            "name": "Dragon Ore",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 15
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 17
+                },
+                {
+                    "name": "Armor Power",
+                    "value": 15
+                }
+            ],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Ring",
+            "type": "Ring",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 543
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "7dbc25a1-ebb7-4bde-ad65-5b76e30a7a6a",
+                    "name": "Dragon Ore",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 100
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "c57acd84-32ec-434c-ab2c-e200d47da4a1",
+                        "name": "Gold Ring",
+                        "amount": 1
+                    },
+                    {
+                        "id": "fa4d89b8-f483-4555-a524-6ed11116ba76",
+                        "name": "Dragon Ore",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "0dc620c2-b726-4928-9f1c-fcf61aaa2542": {
+            "id": "0dc620c2-b726-4928-9f1c-fcf61aaa2542",
+            "imageSrc": "dragon-scale.png",
+            "name": "Dragon Scale",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 360
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "dd317fee-fc28-4677-a95f-68473ad9c473": {
+            "id": "dd317fee-fc28-4677-a95f-68473ad9c473",
+            "imageSrc": "dragon-shield.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 53
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 90
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1800
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "dd317fee-fc28-4677-a95f-68473ad9c473",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 134
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "5ef656f9-aa52-4072-b999-d442a4812c30": {
+            "id": "5ef656f9-aa52-4072-b999-d442a4812c30",
+            "imageSrc": "dragon-spear.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 79
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 87
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 90
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1975
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "5ef656f9-aa52-4072-b999-d442a4812c30",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 133
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "7c634ce8-7d20-4036-b5a0-52d378095c23",
+                        "name": "Pineheart Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "68cd8a59-3151-41b7-a45b-02dce677a844": {
+            "id": "68cd8a59-3151-41b7-a45b-02dce677a844",
+            "imageSrc": "dragon-staff.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 84
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 84
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 90
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1975
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "68cd8a59-3151-41b7-a45b-02dce677a844",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 133
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "7c634ce8-7d20-4036-b5a0-52d378095c23",
+                        "name": "Pineheart Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "fc041745-d988-488a-8896-41d32cf89316": {
+            "id": "fc041745-d988-488a-8896-41d32cf89316",
+            "imageSrc": "dragon-sword.png",
+            "name": "Dragon Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 61
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 61
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 90
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Dragon",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1350
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "fc041745-d988-488a-8896-41d32cf89316",
+                    "name": "Dragon Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 125
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "771e6a95-36b2-4da6-b5d8-3f1ebeba5bef",
+                        "name": "Dragon Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        }
+    }
+}

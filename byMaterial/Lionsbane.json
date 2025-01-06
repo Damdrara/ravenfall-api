@@ -1,0 +1,785 @@
+{
+    "meta": {
+        "count": 16,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf": {
+            "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+            "imageSrc": "lionite-bar.png",
+            "name": "Coal",
+            "description": "Golden and majestic, this bar is as fierce and noble as the creature it's named after.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 980
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                    "name": "Coal",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 220
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "e58d9044-4a38-4e28-9bcb-7b6f0cfee2c6",
+                        "name": "Lionite Ore",
+                        "amount": 1
+                    },
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 25
+                    }
+                ]
+            }
+        },
+        "e58d9044-4a38-4e28-9bcb-7b6f0cfee2c6": {
+            "id": "e58d9044-4a38-4e28-9bcb-7b6f0cfee2c6",
+            "imageSrc": "lionite-ore.png",
+            "name": "Lionite Ore",
+            "description": "Golden and radiant, this ore roars with the strength and majesty of a lion.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 980
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 575
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "51680f29-c6dd-4633-a7d0-2c0535636727": {
+            "id": "51680f29-c6dd-4633-a7d0-2c0535636727",
+            "imageSrc": "lionsbane-2h-axe.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 140
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 176
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 200
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 6125
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "51680f29-c6dd-4633-a7d0-2c0535636727",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 233
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "365054c5-cef7-4ac7-a0bf-9711a8610709": {
+            "id": "365054c5-cef7-4ac7-a0bf-9711a8610709",
+            "imageSrc": "lionsbane-2h-sword.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 160
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 160
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 200
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 6125
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "365054c5-cef7-4ac7-a0bf-9711a8610709",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 233
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "9899934a-7da2-4ca7-b54b-236cc89b61a6": {
+            "id": "9899934a-7da2-4ca7-b54b-236cc89b61a6",
+            "imageSrc": "lionsbane-axe.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 109
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 122
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 200
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 6125
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "9899934a-7da2-4ca7-b54b-236cc89b61a6",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 229
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "a8fe9b55-d2be-4219-b9b6-aaaa5150681c": {
+            "id": "a8fe9b55-d2be-4219-b9b6-aaaa5150681c",
+            "imageSrc": "lionsbane-boots.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 106
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 200
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3675
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "a8fe9b55-d2be-4219-b9b6-aaaa5150681c",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 224
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "99454c89-d3fd-4e33-95eb-08ede2f532d7": {
+            "id": "99454c89-d3fd-4e33-95eb-08ede2f532d7",
+            "imageSrc": "lionsbane-bow.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 160
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 160
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 200
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 5325
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "99454c89-d3fd-4e33-95eb-08ede2f532d7",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 233
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "56761a79-ab8d-4dac-a34d-f76cbc85eefe",
+                        "name": "Frostbite Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "9a12d35a-0743-47a4-a6f7-10f9a84492ea": {
+            "id": "9a12d35a-0743-47a4-a6f7-10f9a84492ea",
+            "imageSrc": "lionsbane-chest.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 157
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 200
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 6125
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "9a12d35a-0743-47a4-a6f7-10f9a84492ea",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 237
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "c512f4e9-d14f-4b50-9205-732c25bb2ee1": {
+            "id": "c512f4e9-d14f-4b50-9205-732c25bb2ee1",
+            "imageSrc": "lionsbane-gloves.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 105
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 200
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3675
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "c512f4e9-d14f-4b50-9205-732c25bb2ee1",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 225
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "443ee95a-9c28-49c8-af5b-255c19d656ac": {
+            "id": "443ee95a-9c28-49c8-af5b-255c19d656ac",
+            "imageSrc": "lionsbane-helmet.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 108
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 200
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3675
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "443ee95a-9c28-49c8-af5b-255c19d656ac",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 226
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "94f5568c-bc04-400f-9b56-9bf0a007c66f": {
+            "id": "94f5568c-bc04-400f-9b56-9bf0a007c66f",
+            "imageSrc": "lionsbane-katana.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 148
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 173
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 200
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 6125
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "94f5568c-bc04-400f-9b56-9bf0a007c66f",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 234
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "328b248c-35ac-409e-83e4-ab801a3b9cb1": {
+            "id": "328b248c-35ac-409e-83e4-ab801a3b9cb1",
+            "imageSrc": "lionsbane-leggings.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 115
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 200
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 4900
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "328b248c-35ac-409e-83e4-ab801a3b9cb1",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 235
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "3d641d63-dadf-40dc-ad31-3e741a705532": {
+            "id": "3d641d63-dadf-40dc-ad31-3e741a705532",
+            "imageSrc": "lionsbane-shield.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 115
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 200
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 4900
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "3d641d63-dadf-40dc-ad31-3e741a705532",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 234
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "879023bb-18d2-4320-8616-3f8acd7fab9e": {
+            "id": "879023bb-18d2-4320-8616-3f8acd7fab9e",
+            "imageSrc": "lionsbane-spear.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 152
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 166
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 200
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 5325
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "879023bb-18d2-4320-8616-3f8acd7fab9e",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 233
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "56761a79-ab8d-4dac-a34d-f76cbc85eefe",
+                        "name": "Frostbite Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "ed01a446-1f9d-4eca-981e-cfd6e7415a4e": {
+            "id": "ed01a446-1f9d-4eca-981e-cfd6e7415a4e",
+            "imageSrc": "lionsbane-staff.png",
+            "name": "Frostbite Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 160
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 160
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 200
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 5325
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "ed01a446-1f9d-4eca-981e-cfd6e7415a4e",
+                    "name": "Frostbite Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 233
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "56761a79-ab8d-4dac-a34d-f76cbc85eefe",
+                        "name": "Frostbite Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "31dd76be-0fb1-4891-8cf7-045e86c60fd3": {
+            "id": "31dd76be-0fb1-4891-8cf7-045e86c60fd3",
+            "imageSrc": "lionsbane-sword.png",
+            "name": "Lionite Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 116
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 116
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 200
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Lionsbane",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 3675
+            },
+            "maxEnchantments": 4,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "31dd76be-0fb1-4891-8cf7-045e86c60fd3",
+                    "name": "Lionite Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 225
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6feab5fc-993f-4f77-b85e-b0e59a7eb1cf",
+                        "name": "Lionite Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        }
+    }
+}

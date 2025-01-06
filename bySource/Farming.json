@@ -1,0 +1,568 @@
+{
+    "meta": {
+        "count": 20,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "857c2fda-5117-46c2-a324-e256ac430b6e": {
+            "id": "857c2fda-5117-46c2-a324-e256ac430b6e",
+            "imageSrc": "apple.png",
+            "name": "Apple",
+            "description": "A sweet and crunchy fruit.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 70
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 70
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "c6dc3550-a5e0-4eae-8347-3c9e945b1216": {
+            "id": "c6dc3550-a5e0-4eae-8347-3c9e945b1216",
+            "imageSrc": "cacao.png",
+            "name": "Cacao",
+            "description": "The base of all chocolate delights.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Cooking",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 400
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 400
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "566b4249-9b05-436a-bda0-3effb593c7d9": {
+            "id": "566b4249-9b05-436a-bda0-3effb593c7d9",
+            "imageSrc": "carrots.png",
+            "name": "Carrots",
+            "description": "A crunchy vegetable, rich in vitamins.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 80
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 80
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "955d07ed-07ae-4035-b1d0-7a36bdc1db30": {
+            "id": "955d07ed-07ae-4035-b1d0-7a36bdc1db30",
+            "imageSrc": null,
+            "name": "Coriander",
+            "description": "A fragrant herb, brightening up meals.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 40
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 40
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "1cd4dea4-4d7c-492b-bf38-b79de96ceb02": {
+            "id": "1cd4dea4-4d7c-492b-bf38-b79de96ceb02",
+            "imageSrc": null,
+            "name": "Cumin",
+            "description": "A spicy seed, adding warmth to dishes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 30
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 30
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "10119ad9-e3fd-4cf6-bde4-15dc8ef93695": {
+            "id": "10119ad9-e3fd-4cf6-bde4-15dc8ef93695",
+            "imageSrc": "eggs.png",
+            "name": "Eggs",
+            "description": "An essential ingredient in many culinary dishes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 140
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 140
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "0bdc5e35-bdd0-426b-901b-d822198cd42b": {
+            "id": "0bdc5e35-bdd0-426b-901b-d822198cd42b",
+            "imageSrc": "garlic.png",
+            "name": "Garlic",
+            "description": "A pungent ingredient, adding depth to dishes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 90
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 90
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "7497c810-b8b5-4566-afeb-71dd2a8e4d52": {
+            "id": "7497c810-b8b5-4566-afeb-71dd2a8e4d52",
+            "imageSrc": "grapes.png",
+            "name": "Grapes",
+            "description": "Sweet fruits, enjoyed fresh or as wine.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 320
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 320
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "e65b26dd-b4cf-4d22-8ea0-4014f32ef542": {
+            "id": "e65b26dd-b4cf-4d22-8ea0-4014f32ef542",
+            "imageSrc": "milk.png",
+            "name": "Milk",
+            "description": "A creamy liquid, used in cooking and baking.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 120
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 120
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "f0b52c90-088c-4aa9-baa9-512f0c272790": {
+            "id": "f0b52c90-088c-4aa9-baa9-512f0c272790",
+            "imageSrc": "onion.png",
+            "name": "Onion",
+            "description": "A flavorful bulb, adding zest to meals.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 100
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 100
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "637453bd-1873-4fe5-a7cb-92f6edb78c3b": {
+            "id": "637453bd-1873-4fe5-a7cb-92f6edb78c3b",
+            "imageSrc": "paprika.png",
+            "name": "Paprika",
+            "description": "A vibrant spice, adding color and flavor.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 50
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 50
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "1c3889c3-d36d-4ca5-a473-1e676bac1895": {
+            "id": "1c3889c3-d36d-4ca5-a473-1e676bac1895",
+            "imageSrc": "potato.png",
+            "name": "Potato",
+            "description": "A starchy vegetable, versatile in cooking.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 5
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 5
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "a7edbd77-d5d2-4961-847e-615d7ef425f2": {
+            "id": "a7edbd77-d5d2-4961-847e-615d7ef425f2",
+            "imageSrc": "raw-chicken.png",
+            "name": "Raw Chicken",
+            "description": "Uncooked poultry, ready for the frying pan.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 160
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 160
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "eadedcdd-7df4-4b02-8de7-65931f26586c": {
+            "id": "eadedcdd-7df4-4b02-8de7-65931f26586c",
+            "imageSrc": "raw-meat.png",
+            "name": "Raw Meat",
+            "description": "Uncooked beef, a staple in many dishes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 240
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 240
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "23f44b0e-4774-4a10-8323-c31de2e59baa": {
+            "id": "23f44b0e-4774-4a10-8323-c31de2e59baa",
+            "imageSrc": "raw-pork.png",
+            "name": "Raw Pork",
+            "description": "Uncooked pork, waiting to be seasoned and cooked.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 200
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 200
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "098abc6a-dffd-4c40-9c38-a2e9030fc089": {
+            "id": "098abc6a-dffd-4c40-9c38-a2e9030fc089",
+            "imageSrc": "tomato.png",
+            "name": "Tomato",
+            "description": "A juicy fruit, essential in salads and sauces.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 10
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 10
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "ad93c5b0-5196-449c-b778-fcbc09480ded": {
+            "id": "ad93c5b0-5196-449c-b778-fcbc09480ded",
+            "imageSrc": "truffle.png",
+            "name": "Truffle",
+            "description": "A rare fungus, cherished in gourmet dishes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 800
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 800
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "cfbaf0b4-a993-4020-b4f1-52c8c350b115": {
+            "id": "cfbaf0b4-a993-4020-b4f1-52c8c350b115",
+            "imageSrc": "turmeric.png",
+            "name": "Turmeric",
+            "description": "A golden spice, known for its earthy flavor.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 60
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 60
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "57673856-30ff-479d-a43e-be693953a35a": {
+            "id": "57673856-30ff-479d-a43e-be693953a35a",
+            "imageSrc": "wheat.png",
+            "name": "Wheat",
+            "description": "Golden grains, the base for many baked goods.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 1
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "0f2d6191-6a83-480c-a23f-bff2f051236c": {
+            "id": "0f2d6191-6a83-480c-a23f-bff2f051236c",
+            "imageSrc": "yeast.png",
+            "name": "Yeast",
+            "description": "A key ingredient for bread-making. It feeds on sugars and causes dough to rise, providing bread's fluffy texture.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Farming",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 10
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Farming",
+                        "value": 10
+                    }
+                }
+            ],
+            "recipe": null
+        }
+    }
+}

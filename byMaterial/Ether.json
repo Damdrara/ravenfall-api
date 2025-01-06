@@ -1,0 +1,785 @@
+{
+    "meta": {
+        "count": 16,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "2ae5c82e-a279-4eee-b8cf-2e7a1eb35b17": {
+            "id": "2ae5c82e-a279-4eee-b8cf-2e7a1eb35b17",
+            "imageSrc": "ether-2h-axe.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 176
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 220
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 280
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 8562
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "2ae5c82e-a279-4eee-b8cf-2e7a1eb35b17",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 273
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "f6ff9315-c473-4365-a19f-4df697049475": {
+            "id": "f6ff9315-c473-4365-a19f-4df697049475",
+            "imageSrc": "ether-2h-sword.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 200
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 200
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 280
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 8562
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f6ff9315-c473-4365-a19f-4df697049475",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 273
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "e0716917-498c-4c15-92cf-c707cdc82575": {
+            "id": "e0716917-498c-4c15-92cf-c707cdc82575",
+            "imageSrc": "ether-axe.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 135
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 152
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 280
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 8562
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "e0716917-498c-4c15-92cf-c707cdc82575",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 269
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "c3fae08a-a72a-4d86-b213-bb3ca4786f8c": {
+            "id": "c3fae08a-a72a-4d86-b213-bb3ca4786f8c",
+            "imageSrc": "ether-boots.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 115
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 280
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 5137
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "c3fae08a-a72a-4d86-b213-bb3ca4786f8c",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 264
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "c9f2ee83-9a60-428c-bf3b-997e916965cb": {
+            "id": "c9f2ee83-9a60-428c-bf3b-997e916965cb",
+            "imageSrc": "ether-bow.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 200
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 200
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 280
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 7350
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "c9f2ee83-9a60-428c-bf3b-997e916965cb",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 273
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "4b7ba17a-0962-4175-813f-b369286b957d",
+                        "name": "Dragonwood Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "21a9e2c3-49e4-4c07-aa38-6def771f51cc": {
+            "id": "21a9e2c3-49e4-4c07-aa38-6def771f51cc",
+            "imageSrc": "ether-chest.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 173
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 280
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 8562
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "21a9e2c3-49e4-4c07-aa38-6def771f51cc",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 277
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "3f53fecf-b913-4dda-8c63-08b724d4914c": {
+            "id": "3f53fecf-b913-4dda-8c63-08b724d4914c",
+            "imageSrc": "ether-gloves.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 119
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 280
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 5137
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "3f53fecf-b913-4dda-8c63-08b724d4914c",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 265
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "311a24ae-3b8d-497e-9823-da3eba2359fb": {
+            "id": "311a24ae-3b8d-497e-9823-da3eba2359fb",
+            "imageSrc": "ether-helmet.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 131
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 280
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 5137
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "311a24ae-3b8d-497e-9823-da3eba2359fb",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 266
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "44297b32-ac17-4912-9bb2-dc5fa3a3f84e": {
+            "id": "44297b32-ac17-4912-9bb2-dc5fa3a3f84e",
+            "imageSrc": "ether-katana.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 185
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 216
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 280
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 8562
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "44297b32-ac17-4912-9bb2-dc5fa3a3f84e",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 274
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "6b9cc4d1-0e9c-4e90-b474-abac5548e5fd": {
+            "id": "6b9cc4d1-0e9c-4e90-b474-abac5548e5fd",
+            "imageSrc": "ether-leggings.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 134
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 280
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 6850
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "6b9cc4d1-0e9c-4e90-b474-abac5548e5fd",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 275
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "c8ce4210-4980-432c-82eb-9f959386fc31": {
+            "id": "c8ce4210-4980-432c-82eb-9f959386fc31",
+            "imageSrc": "ether-shield.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 134
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 280
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 6850
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "c8ce4210-4980-432c-82eb-9f959386fc31",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 274
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "31c9365d-cfae-459e-990e-74206d52b2c4": {
+            "id": "31c9365d-cfae-459e-990e-74206d52b2c4",
+            "imageSrc": "ether-spear.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 190
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 208
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 280
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 7350
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "31c9365d-cfae-459e-990e-74206d52b2c4",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 273
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "4b7ba17a-0962-4175-813f-b369286b957d",
+                        "name": "Dragonwood Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "e317461e-d8e7-495c-a1b6-df0a967ddb71": {
+            "id": "e317461e-d8e7-495c-a1b6-df0a967ddb71",
+            "imageSrc": "ether-staff.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 200
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 200
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 280
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 7350
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "e317461e-d8e7-495c-a1b6-df0a967ddb71",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 273
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "4b7ba17a-0962-4175-813f-b369286b957d",
+                        "name": "Dragonwood Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "0c499637-7316-4c93-a847-216d6750bf34": {
+            "id": "0c499637-7316-4c93-a847-216d6750bf34",
+            "imageSrc": "ether-sword.png",
+            "name": "Ethereum Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 144
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 144
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 280
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 5137
+            },
+            "maxEnchantments": 5,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "0c499637-7316-4c93-a847-216d6750bf34",
+                    "name": "Ethereum Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 265
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                        "name": "Ethereum Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "0ae20144-f61c-4b77-b7d8-ddf2779fd482": {
+            "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+            "imageSrc": "ethereum-bar.png",
+            "name": "Ethereum Ore",
+            "description": "Refined from its dark purple ore, this bar seems to hum with otherworldly energy.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1370
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "0ae20144-f61c-4b77-b7d8-ddf2779fd482",
+                    "name": "Ethereum Ore",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 260
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 30
+                    },
+                    {
+                        "id": "8c3fbee1-ba68-4166-851d-17600ec5a9e8",
+                        "name": "Ethereum Ore",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "8c3fbee1-ba68-4166-851d-17600ec5a9e8": {
+            "id": "8c3fbee1-ba68-4166-851d-17600ec5a9e8",
+            "imageSrc": "ethereum-ore.png",
+            "name": "Ethereum Ore",
+            "description": "This dark purple ore exudes a mysterious energy, as if holding secrets from other realms.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Ether",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1370
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 700
+                    }
+                }
+            ],
+            "recipe": null
+        }
+    }
+}

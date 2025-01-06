@@ -1,0 +1,624 @@
+{
+    "meta": {
+        "count": 22,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "46be70f5-6618-4e06-b96f-87e32e0752a8": {
+            "id": "46be70f5-6618-4e06-b96f-87e32e0752a8",
+            "imageSrc": "black-pepper.png",
+            "name": "Black Pepper",
+            "description": "A spicy seasoning that adds kick to dishes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": "Black",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 96
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 25
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "0c76b4be-9ab9-42c0-b395-a54a2a7ecc30": {
+            "id": "0c76b4be-9ab9-42c0-b395-a54a2a7ecc30",
+            "imageSrc": "chamomile.png",
+            "name": "Chamomile",
+            "description": "A soothing herb that augments healing energies.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 140
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 140
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "807632e7-67c8-4ea9-905b-9fd58a9cd7bf": {
+            "id": "807632e7-67c8-4ea9-905b-9fd58a9cd7bf",
+            "imageSrc": "cinnamon.png",
+            "name": "Cinnamon",
+            "description": "A fragrant spice obtained from the inner bark of certain trees. Adds a warm and aromatic flavor.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Cooking",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 120
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 120
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "7f4186e6-e8f0-40d2-b50c-2cf27a779328": {
+            "id": "7f4186e6-e8f0-40d2-b50c-2cf27a779328",
+            "imageSrc": "comfrey.png",
+            "name": "Comfrey",
+            "description": "A herb used for creating regenerative potions",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 40
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 40
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "2dac5bdf-f673-447a-a043-082f9350897c": {
+            "id": "2dac5bdf-f673-447a-a043-082f9350897c",
+            "imageSrc": "elderflower.png",
+            "name": "Elderflower",
+            "description": "A fragrant herb enhancing magical capabilities.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 100
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 100
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "a92b90a0-0f51-46f2-9165-b0645abf2e1b": {
+            "id": "a92b90a0-0f51-46f2-9165-b0645abf2e1b",
+            "imageSrc": "goldenrod.png",
+            "name": "Goldenrod",
+            "description": "A herb known to bolster the consumer's physical might.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 280
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 280
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "d5a05c45-d9b3-40e5-b198-1d639b333b14": {
+            "id": "d5a05c45-d9b3-40e5-b198-1d639b333b14",
+            "imageSrc": "hemp.png",
+            "name": "Hemp",
+            "description": "A fibrous plant material, used for creating strings.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 20
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 20
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "d176685e-36f7-49c3-8438-b36e8085fd32": {
+            "id": "d176685e-36f7-49c3-8438-b36e8085fd32",
+            "imageSrc": "lavender.png",
+            "name": "Lavender",
+            "description": "A herb that can increase the strength of the user",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 80
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 80
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "e560a499-e30d-4f01-8bb8-64560eb5225f": {
+            "id": "e560a499-e30d-4f01-8bb8-64560eb5225f",
+            "imageSrc": "lemon-balm.png",
+            "name": "Lemon Balm",
+            "description": "A fragrant herb, known to enhance healing magics.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 500
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 500
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "140409b9-c867-487e-8db7-8901f7195fb8": {
+            "id": "140409b9-c867-487e-8db7-8901f7195fb8",
+            "imageSrc": "mugwort.png",
+            "name": "Mugwort",
+            "description": "A herb with great protective properties.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 230
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 230
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "73b910a0-9630-485a-97e1-9a59518a718c": {
+            "id": "73b910a0-9630-485a-97e1-9a59518a718c",
+            "imageSrc": "mushroom.png",
+            "name": "Mushroom",
+            "description": "A versatile fungus that adds flavor to dishes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 15
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 15
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "ec4301f8-eda3-47a8-847f-9646f5753b3e": {
+            "id": "ec4301f8-eda3-47a8-847f-9646f5753b3e",
+            "imageSrc": "red-clover.png",
+            "name": "Red Clover",
+            "description": "The Red Clover is said to have great healing properties.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 180
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 180
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "c2d5eb85-0ff0-43d9-bf75-8d1cd764177c": {
+            "id": "c2d5eb85-0ff0-43d9-bf75-8d1cd764177c",
+            "imageSrc": "resin.png",
+            "name": "Resin",
+            "description": "A sticky substance, often combined with wood pulp to make paper.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 30
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 30
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "4160cd7e-eeb6-4c6b-ba62-a93483750a49": {
+            "id": "4160cd7e-eeb6-4c6b-ba62-a93483750a49",
+            "imageSrc": "sage.png",
+            "name": "Sage",
+            "description": "A herb that hardens the skin when properly consumed.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 60
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 60
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "7830181b-58e1-4a8f-b5f9-8d8858f4dba2": {
+            "id": "7830181b-58e1-4a8f-b5f9-8d8858f4dba2",
+            "imageSrc": "salt.png",
+            "name": "Salt",
+            "description": "A mineral that enhances the taste of food.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 20
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 20
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "0a4b263d-e8f0-4e7f-9f6b-1c6391f377f3": {
+            "id": "0a4b263d-e8f0-4e7f-9f6b-1c6391f377f3",
+            "imageSrc": null,
+            "name": "Sand",
+            "description": "Granular material that can be melted to create vials.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 5
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 5
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "41fc1c82-ac78-4c1a-8cef-f3bccbe53348": {
+            "id": "41fc1c82-ac78-4c1a-8cef-f3bccbe53348",
+            "imageSrc": "skullcap.png",
+            "name": "Skullcap",
+            "description": "A herb that sharpens focus, benefiting ranged prowess.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 400
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 400
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "8e2f422e-f32a-43e5-8160-721b9ec1e2f4": {
+            "id": "8e2f422e-f32a-43e5-8160-721b9ec1e2f4",
+            "imageSrc": "sugar.png",
+            "name": "Sugar",
+            "description": "A sweet crystalline substance often used in baking and cooking to enhance flavors.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Cooking",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 100
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 100
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "6fef70d8-52c3-4e1d-a4c7-38b73d888b85": {
+            "id": "6fef70d8-52c3-4e1d-a4c7-38b73d888b85",
+            "imageSrc": "valerian.png",
+            "name": "Valerian",
+            "description": "A calming herb that steadies the archer's aim.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 120
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 120
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "478240a3-2bac-48f6-8aa9-ec518bd0a447": {
+            "id": "478240a3-2bac-48f6-8aa9-ec518bd0a447",
+            "imageSrc": "water.png",
+            "name": "Water",
+            "description": "Essential for life and a key ingredient in many recipes.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 1
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "dfccad37-ffdd-4c2b-89fb-804d181654e1": {
+            "id": "dfccad37-ffdd-4c2b-89fb-804d181654e1",
+            "imageSrc": "wormwood.png",
+            "name": "Wormwood",
+            "description": "A bitter herb that amplifies magical energies.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 330
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 330
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "9d5c034a-4a64-4d6c-990b-e57f36d915aa": {
+            "id": "9d5c034a-4a64-4d6c-990b-e57f36d915aa",
+            "imageSrc": "yarrow.png",
+            "name": "Yarrow",
+            "description": "A herb with healing properties",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Gathering",
+            "material": null,
+            "price": {
+                "currency": "ravenCoins",
+                "value": 10
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Gathering",
+                        "value": 10
+                    }
+                }
+            ],
+            "recipe": null
+        }
+    }
+}

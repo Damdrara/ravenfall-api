@@ -1,0 +1,825 @@
+{
+    "meta": {
+        "count": 18,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "d42c9d67-01a5-4c88-82b7-10c097c25e9b": {
+            "id": "d42c9d67-01a5-4c88-82b7-10c097c25e9b",
+            "imageSrc": "rune-2h-axe.png",
+            "name": "Rune Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 61
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 77
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 70
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1625
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "d42c9d67-01a5-4c88-82b7-10c097c25e9b",
+                    "name": "Rune Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 103
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "33a82adb-619b-419b-baac-231d6ae62ec6": {
+            "id": "33a82adb-619b-419b-baac-231d6ae62ec6",
+            "imageSrc": "rune-2h-sword.png",
+            "name": "Rune Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 70
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 70
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 70
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1625
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "33a82adb-619b-419b-baac-231d6ae62ec6",
+                    "name": "Rune Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 103
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "6ec7aa31-f68d-47c4-8993-358b50a82489": {
+            "id": "6ec7aa31-f68d-47c4-8993-358b50a82489",
+            "imageSrc": "rune-axe.png",
+            "name": "Rune Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 47
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 52
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 70
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1625
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "6ec7aa31-f68d-47c4-8993-358b50a82489",
+                    "name": "Rune Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 99
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "62327514-a850-43de-a16b-e43b1c3db665": {
+            "id": "62327514-a850-43de-a16b-e43b1c3db665",
+            "imageSrc": "rune-bar.png",
+            "name": "Coal",
+            "description": "Engraved with ancient symbols, this bar possesses magical properties that make it invaluable in enchanting.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 260
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                    "name": "Coal",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 90
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "6466a2ec-3f08-49f2-b3ad-4ab981658ea4",
+                        "name": "Rune Ore",
+                        "amount": 1
+                    },
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 8
+                    }
+                ]
+            }
+        },
+        "77137b22-3f23-4af9-b535-3054e5cf14c6": {
+            "id": "77137b22-3f23-4af9-b535-3054e5cf14c6",
+            "imageSrc": "rune-boots.png",
+            "name": "Rune Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 45
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 70
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 975
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "77137b22-3f23-4af9-b535-3054e5cf14c6",
+                    "name": "Rune Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 94
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "31af4e5b-7067-4ecd-9fb6-d35fab82b79c": {
+            "id": "31af4e5b-7067-4ecd-9fb6-d35fab82b79c",
+            "imageSrc": "rune-bow.png",
+            "name": "Sandrift Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 70
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 70
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 70
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1425
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "31af4e5b-7067-4ecd-9fb6-d35fab82b79c",
+                    "name": "Sandrift Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 103
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "ab267de0-de59-48db-849a-6d1d43d8bbf2",
+                        "name": "Sandrift Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "36308652-99da-488a-b633-048052febb6f": {
+            "id": "36308652-99da-488a-b633-048052febb6f",
+            "imageSrc": "rune-chest.png",
+            "name": "Rune Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 80
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 70
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1625
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "36308652-99da-488a-b633-048052febb6f",
+                    "name": "Rune Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 107
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "251b4b2e-c854-45fd-9eb8-d00e08bfe996": {
+            "id": "251b4b2e-c854-45fd-9eb8-d00e08bfe996",
+            "imageSrc": "rune-gloves.png",
+            "name": "Rune Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 38
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 70
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 975
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "251b4b2e-c854-45fd-9eb8-d00e08bfe996",
+                    "name": "Rune Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 95
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "7cf082c9-cefa-4c1c-85c4-e0788c56c443": {
+            "id": "7cf082c9-cefa-4c1c-85c4-e0788c56c443",
+            "imageSrc": "rune-helmet.png",
+            "name": "Rune Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 30
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 70
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 975
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "7cf082c9-cefa-4c1c-85c4-e0788c56c443",
+                    "name": "Rune Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 96
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "3d5df3c1-986e-422d-84d8-b2dc33de6ee7": {
+            "id": "3d5df3c1-986e-422d-84d8-b2dc33de6ee7",
+            "imageSrc": "rune-katana.png",
+            "name": "Rune Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 66
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 74
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 70
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1625
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "3d5df3c1-986e-422d-84d8-b2dc33de6ee7",
+                    "name": "Rune Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 104
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "c4ce24db-bb10-495f-9602-885e7a5f3051": {
+            "id": "c4ce24db-bb10-495f-9602-885e7a5f3051",
+            "imageSrc": "rune-leggings.png",
+            "name": "Rune Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 49
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 70
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1300
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "c4ce24db-bb10-495f-9602-885e7a5f3051",
+                    "name": "Rune Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 105
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "40781eb8-1ebf-4c0c-9a11-6e8033c9953c": {
+            "id": "40781eb8-1ebf-4c0c-9a11-6e8033c9953c",
+            "imageSrc": "rune-nugget.png",
+            "name": "Rune Nugget",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 260
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "6466a2ec-3f08-49f2-b3ad-4ab981658ea4": {
+            "id": "6466a2ec-3f08-49f2-b3ad-4ab981658ea4",
+            "imageSrc": "rune-ore.png",
+            "name": "Rune Ore",
+            "description": "A mystical ore infused with ancient magics. Often seen glowing with a soft blue hue.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 260
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 110
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "708c3e65-e86b-4c6e-8171-b8768582b8e3": {
+            "id": "708c3e65-e86b-4c6e-8171-b8768582b8e3",
+            "imageSrc": "rune-shield.png",
+            "name": "Rune Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 49
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 70
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1300
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "708c3e65-e86b-4c6e-8171-b8768582b8e3",
+                    "name": "Rune Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 104
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "1649a047-f471-48c5-9a54-2a9aa2a73276": {
+            "id": "1649a047-f471-48c5-9a54-2a9aa2a73276",
+            "imageSrc": "rune-spear.png",
+            "name": "Sandrift Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 66
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 72
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 70
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1425
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "1649a047-f471-48c5-9a54-2a9aa2a73276",
+                    "name": "Sandrift Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 103
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "ab267de0-de59-48db-849a-6d1d43d8bbf2",
+                        "name": "Sandrift Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "4f4bb39d-68d1-4cfb-a0db-4ff34078b0f6": {
+            "id": "4f4bb39d-68d1-4cfb-a0db-4ff34078b0f6",
+            "imageSrc": "rune-staff.png",
+            "name": "Sandrift Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 70
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 70
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 70
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1425
+            },
+            "maxEnchantments": 2,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "4f4bb39d-68d1-4cfb-a0db-4ff34078b0f6",
+                    "name": "Sandrift Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 103
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "ab267de0-de59-48db-849a-6d1d43d8bbf2",
+                        "name": "Sandrift Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "f6fb0d64-da07-4da3-9bce-5569b1e9701d": {
+            "id": "f6fb0d64-da07-4da3-9bce-5569b1e9701d",
+            "imageSrc": "rune-sword.png",
+            "name": "Rune Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 50
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 50
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 70
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 975
+            },
+            "maxEnchantments": 1,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f6fb0d64-da07-4da3-9bce-5569b1e9701d",
+                    "name": "Rune Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 95
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "62327514-a850-43de-a16b-e43b1c3db665",
+                        "name": "Rune Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "c7391420-1c94-4878-b544-b12ef476cf16": {
+            "id": "c7391420-1c94-4878-b544-b12ef476cf16",
+            "imageSrc": "rune-token.png",
+            "name": "Rune Token",
+            "description": "An old token that no longer bears any value.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Scroll",
+            "type": "Scroll",
+            "material": "Rune",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        }
+    }
+}

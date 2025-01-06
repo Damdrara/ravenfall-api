@@ -1,0 +1,805 @@
+{
+    "meta": {
+        "count": 17,
+        "lastUpdated": "2025-01-06T13:03:24+00:00"
+    },
+    "list": {
+        "f6960a0f-b864-452f-b010-421bb1ea6d8d": {
+            "id": "f6960a0f-b864-452f-b010-421bb1ea6d8d",
+            "imageSrc": "ancient-2h-axe.png",
+            "name": "Ancient Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 220
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 275
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 340
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Axe",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 11000
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f6960a0f-b864-452f-b010-421bb1ea6d8d",
+                    "name": "Ancient Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 313
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "9f3b9589-47b7-4653-9cb9-0609dc58bbd2": {
+            "id": "9f3b9589-47b7-4653-9cb9-0609dc58bbd2",
+            "imageSrc": "ancient-2h-sword.png",
+            "name": "Ancient Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 250
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 250
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 340
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 11000
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "9f3b9589-47b7-4653-9cb9-0609dc58bbd2",
+                    "name": "Ancient Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 313
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "42860560-e68c-4684-8b98-f46d9f3e0b83": {
+            "id": "42860560-e68c-4684-8b98-f46d9f3e0b83",
+            "imageSrc": "ancient-axe.png",
+            "name": "Ancient Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 167
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 188
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 340
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Axe",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 11000
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "42860560-e68c-4684-8b98-f46d9f3e0b83",
+                    "name": "Ancient Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 309
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "a76259b7-6838-4e66-bb39-de466712c608": {
+            "id": "a76259b7-6838-4e66-bb39-de466712c608",
+            "imageSrc": "ancient-bar.png",
+            "name": "Ancient Ore",
+            "description": "A relic from a bygone age, this bar holds the wisdom and power of ancient civilizations.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Crafting",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1900
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                    "name": "Ancient Ore",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 300
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "09fa0236-afde-41c4-a7ac-0e5038d04d27",
+                        "name": "Coal",
+                        "amount": 40
+                    },
+                    {
+                        "id": "5bd329ca-c67e-4297-92d3-e0c6e5bd7bc6",
+                        "name": "Ancient Ore",
+                        "amount": 1
+                    }
+                ]
+            }
+        },
+        "72f6dbe1-0480-4191-848b-fee1f34f9f6d": {
+            "id": "72f6dbe1-0480-4191-848b-fee1f34f9f6d",
+            "imageSrc": "ancient-boots.png",
+            "name": "Ancient Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 124
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 340
+                }
+            ],
+            "category": "Armor",
+            "type": "Boots",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 7125
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "72f6dbe1-0480-4191-848b-fee1f34f9f6d",
+                    "name": "Ancient Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 304
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "27e8f385-2490-4e00-9a5a-3802a667b007": {
+            "id": "27e8f385-2490-4e00-9a5a-3802a667b007",
+            "imageSrc": "ancient-bow.png",
+            "name": "Goldwillow Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Ranged Aim",
+                    "value": 250
+                },
+                {
+                    "name": "Ranged Power",
+                    "value": 250
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Ranged",
+                    "value": 340
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Bow",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 10000
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "27e8f385-2490-4e00-9a5a-3802a667b007",
+                    "name": "Goldwillow Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 313
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "b14e85f1-9d59-49db-8d16-b991fa850191",
+                        "name": "Goldwillow Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "bacf50a7-106a-4907-bd23-439c51385476": {
+            "id": "bacf50a7-106a-4907-bd23-439c51385476",
+            "imageSrc": "ancient-chest.png",
+            "name": "Ancient Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 190
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 340
+                }
+            ],
+            "category": "Armor",
+            "type": "Chest",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 11000
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "bacf50a7-106a-4907-bd23-439c51385476",
+                    "name": "Ancient Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 317
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "892aeed8-9336-4d16-8fda-390ed95bd271": {
+            "id": "892aeed8-9336-4d16-8fda-390ed95bd271",
+            "imageSrc": "ancient-gloves.png",
+            "name": "Ancient Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 134
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 340
+                }
+            ],
+            "category": "Armor",
+            "type": "Gloves",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 7125
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "892aeed8-9336-4d16-8fda-390ed95bd271",
+                    "name": "Ancient Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 305
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "aeaf6b0f-6ebf-4728-8f0e-900f9fb81d6e": {
+            "id": "aeaf6b0f-6ebf-4728-8f0e-900f9fb81d6e",
+            "imageSrc": "ancient-heart.png",
+            "name": "Ancient Heart",
+            "description": "",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1900
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [],
+            "recipe": null
+        },
+        "598999f1-e3d6-4170-a7c8-4a273619c023": {
+            "id": "598999f1-e3d6-4170-a7c8-4a273619c023",
+            "imageSrc": "ancient-helmet.png",
+            "name": "Ancient Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 158
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 340
+                }
+            ],
+            "category": "Armor",
+            "type": "Helmet",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 7125
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "598999f1-e3d6-4170-a7c8-4a273619c023",
+                    "name": "Ancient Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 306
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        },
+        "a89943e3-033e-4554-85cc-3ef9aef6d60d": {
+            "id": "a89943e3-033e-4554-85cc-3ef9aef6d60d",
+            "imageSrc": "ancient-katana.png",
+            "name": "Ancient Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 231
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 269
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 340
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Sword",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 11000
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "a89943e3-033e-4554-85cc-3ef9aef6d60d",
+                    "name": "Ancient Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 314
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 5
+                    }
+                ]
+            }
+        },
+        "fc801f1f-e28b-4ee6-82d3-7338376b3e08": {
+            "id": "fc801f1f-e28b-4ee6-82d3-7338376b3e08",
+            "imageSrc": "ancient-leggings.png",
+            "name": "Ancient Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 156
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 340
+                }
+            ],
+            "category": "Armor",
+            "type": "Leggings",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 9500
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "fc801f1f-e28b-4ee6-82d3-7338376b3e08",
+                    "name": "Ancient Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 315
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "5bd329ca-c67e-4297-92d3-e0c6e5bd7bc6": {
+            "id": "5bd329ca-c67e-4297-92d3-e0c6e5bd7bc6",
+            "imageSrc": "ancient-ore.png",
+            "name": "Ancient Ore",
+            "description": "An ore from times long past, it holds memories of the world before.",
+            "stats": [],
+            "requiredSkills": [
+                null
+            ],
+            "category": "Resource",
+            "type": "Mining",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 1900
+            },
+            "maxEnchantments": null,
+            "dropsFrom": [
+                {
+                    "type": "skill",
+                    "source": {
+                        "name": "Mining",
+                        "value": 850
+                    }
+                }
+            ],
+            "recipe": null
+        },
+        "43741cc5-492d-4ef9-9a54-25fcfc2e97ec": {
+            "id": "43741cc5-492d-4ef9-9a54-25fcfc2e97ec",
+            "imageSrc": "ancient-shield.png",
+            "name": "Ancient Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Armor Power",
+                    "value": 156
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Defense",
+                    "value": 340
+                }
+            ],
+            "category": "Armor",
+            "type": "Shield",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 9500
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "43741cc5-492d-4ef9-9a54-25fcfc2e97ec",
+                    "name": "Ancient Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 314
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "fca2b936-942e-4810-a612-86b09ef8b730": {
+            "id": "fca2b936-942e-4810-a612-86b09ef8b730",
+            "imageSrc": "ancient-spear.png",
+            "name": "Ancient Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 237
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 260
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 340
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Spear",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 10000
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "fca2b936-942e-4810-a612-86b09ef8b730",
+                    "name": "Ancient Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 313
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "b14e85f1-9d59-49db-8d16-b991fa850191",
+                        "name": "Goldwillow Logs",
+                        "amount": 2
+                    },
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 4
+                    }
+                ]
+            }
+        },
+        "f32e8545-b717-47ab-9a22-94245de944ae": {
+            "id": "f32e8545-b717-47ab-9a22-94245de944ae",
+            "imageSrc": "ancient-staff.png",
+            "name": "Goldwillow Logs",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Magic Aim",
+                    "value": 250
+                },
+                {
+                    "name": "Magic Power",
+                    "value": 250
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Magic or Healing",
+                    "value": 340
+                }
+            ],
+            "category": "Weapon",
+            "type": "Two Handed Staff",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 10000
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f32e8545-b717-47ab-9a22-94245de944ae",
+                    "name": "Goldwillow Logs",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 313
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 4
+                    },
+                    {
+                        "id": "b14e85f1-9d59-49db-8d16-b991fa850191",
+                        "name": "Goldwillow Logs",
+                        "amount": 2
+                    }
+                ]
+            }
+        },
+        "f5df5e5d-b5c8-4b7f-81e1-a8a6340e52df": {
+            "id": "f5df5e5d-b5c8-4b7f-81e1-a8a6340e52df",
+            "imageSrc": "ancient-sword.png",
+            "name": "Ancient Bar",
+            "description": "",
+            "stats": [
+                {
+                    "name": "Weapon Aim",
+                    "value": 178
+                },
+                {
+                    "name": "Weapon Power",
+                    "value": 178
+                }
+            ],
+            "requiredSkills": [
+                {
+                    "name": "Attack",
+                    "value": 340
+                }
+            ],
+            "category": "Weapon",
+            "type": "One Handed Sword",
+            "material": "Ancient",
+            "price": {
+                "currency": "ravenCoins",
+                "value": 7125
+            },
+            "maxEnchantments": 6,
+            "dropsFrom": [],
+            "recipe": {
+                "product": {
+                    "id": "f5df5e5d-b5c8-4b7f-81e1-a8a6340e52df",
+                    "name": "Ancient Bar",
+                    "amount": 1
+                },
+                "requiredSkills": [
+                    {
+                        "name": "Crafting",
+                        "value": 305
+                    }
+                ],
+                "materials": [
+                    {
+                        "id": "a76259b7-6838-4e66-bb39-de466712c608",
+                        "name": "Ancient Bar",
+                        "amount": 3
+                    }
+                ]
+            }
+        }
+    }
+}
